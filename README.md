@@ -37,7 +37,7 @@
       <th><!--日本リージョン有無--><a href="https://openai.com/ja-JP/policies/terms-of-use/">なし</a></th>
       <th><!--準拠法--><a href="https://openai.com/ja-JP/policies/terms-of-use/">カリフォルニア州法</a></th>
       <th><!--管轄裁判所--><a href="https://openai.com/ja-JP/policies/terms-of-use/">カリフォルニア州サンフランシスコに所在する連邦裁判所又は州裁判所</a></th>
-      <th><!--ISO27001-->NO</th>
+      <th><!--ISO27001--><a href="https://openai.com/policies/supplier-security-measures/">Yes</a></th>
       <th><!--SOC2-->NO</th>
       <th><!--ISMAP-->NO</th>
      </tr>
