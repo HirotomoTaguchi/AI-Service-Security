@@ -31,8 +31,8 @@
        <th><!--データ保持-->30日</th>
        <th><!--リージョン-->US</th>
        <th><!--日本リージョン有無-->なし</th>
-       <th><!--準拠法-->US</th>
-       <th><!--管轄裁判所-->US</th>
+       <th><!--準拠法--><a href="https://openai.com/ja-JP/policies/terms-of-use/">カリフォルニア州法</a></th>
+       <th><!--管轄裁判所--><a href="https://openai.com/ja-JP/policies/terms-of-use/">カリフォルニア州サンフランシスコに所在する連邦裁判所又は州裁判所</a></th>
        <th><!--ISO27001-->Yes</th>
        <th><!--SOC2-->Type2</th>
        <th><!--ISMAP-->NO</th>
