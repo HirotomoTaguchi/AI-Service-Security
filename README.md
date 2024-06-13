@@ -15,7 +15,7 @@
        <th>DataRetention (データ保持)</th>
        <th>Region</th>
        <th>Japan-Region</th>
-       <th>Governing-Law (準拠法)</th>
+       <th>GoverningLaw (準拠法)</th>
        <th>Jurisdiction (管轄裁判所)</th>
        <th>ISO27001</th>
        <th>SOC2</th>
