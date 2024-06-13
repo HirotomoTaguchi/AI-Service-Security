@@ -29,8 +29,8 @@
       <th><!--Plan/ Model-->>Free</th>
       <th><!--Service Provider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Model Procider--><a href="https://openai.com/about/">OpenAI</a></th>
-      <th><!--Term of Use--><a href="https://openai.com/ja-JP/policies/terms-of-use/">利用規約</a></th>
-      <th><!--Privacy Policy--><a href="https://openai.com/ja-JP/policies/privacy-policy/">プライバシーポリシー</a></th>
+      <th><!--Term of Use--><a href="https://openai.com/ja-JP/policies/terms-of-use/">URL</a></th>
+      <th><!--Privacy Policy--><a href="https://openai.com/ja-JP/policies/privacy-policy/">URL</a></th>
       <th><!--学習への利用--><a href="https://openai.com/ja-JP/policies/terms-of-use/">利用する</a></th>
       <th><!--データ保持--><a href="https://openai.com/ja-JP/policies/terms-of-use/">30日</a></th>
       <th><!--リージョン--><a href="https://openai.com/ja-JP/policies/terms-of-use/">US</a></th>
