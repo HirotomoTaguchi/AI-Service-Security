@@ -6,7 +6,7 @@
      <tr>
        <th>ServiceType</th>
        <th>ServiceName</th>
-       <th>Plan/Model</th>
+       <th>ServicePlan/ModelName</th>
        <th>ServiceProvider</th>
        <th>ModelProvider</th>
        <th>Term</th>
