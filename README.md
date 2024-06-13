@@ -4,18 +4,18 @@
  <table>
    <thead>
      <tr>
-       <th>Service Type</th>
-       <th>Service Name</th>
-       <th>Plan/ Model</th>
-       <th>Service Provider</th>
-       <th>Model Procider</th>
+       <th>Service-Type</th>
+       <th>Service-Name</th>
+       <th>Plan/Model</th>
+       <th>Service-Provider</th>
+       <th>Model-Procider</th>
        <th>Term of Use</th>
        <th>Privacy Policy</th>
-       <th>Model Training (学習)</th>
-       <th>Data Retention (データの保存)</th>
+       <th>Model-Training (学習への利用)</th>
+       <th>Data-Retention (データの保存)</th>
        <th>Region</th>
-       <th>Japan Region</th>
-       <th>Governing Law (準拠法)</th>
+       <th>Japan-Region</th>
+       <th>Governing-Law (準拠法)</th>
        <th>Jurisdiction (管轄裁判所)</th>
        <th>ISO27001</th>
        <th>SOC2</th>
