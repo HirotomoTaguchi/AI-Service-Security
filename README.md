@@ -9,9 +9,9 @@
        <th>Plan/Model</th>
        <th>ServiceProvider</th>
        <th>ModelProcider</th>
-       <th>Term of Use</th>
+       <th>Term</th>
        <th>Privacy Policy</th>
-       <th>ModelTraining (学習への利用)</th>
+       <th>ModelTraining (学習利用)</th>
        <th>DataRetention (データの保存)</th>
        <th>Region</th>
        <th>Japan-Region</th>
