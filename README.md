@@ -126,14 +126,14 @@
      <tr>
       <th><!--Service Type-->API</th>
       <th><!--Service Name--><a href=""></a>Azure OpenAI</th>
-      <th><!--Plan/ Model-->GPT-3.5-Turbo-0613</th>
+      <th><!--Plan/ Model-->GPT-3.5-Turbo-0613(4K)</th>
       <th><!--Service Provider--><a href="">Microsoft</a></th>
       <th><!--Model Procider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Term of Use--><a href="">URL</a></th>
       <th><!--Privacy Policy--><a href="">URL</a></th>
       <th><!--学習への利用--><a href="">しない</a></th>
       <th><!--データ保持--><a href="">30日</a></th>
-      <th><!--リージョン--><a href="">US, CA etc,</a></th>
+      <th><!--リージョン--><a href="">Many</a></th>
       <th><!--日本リージョン有無--><a href="">あり</a></th>
       <th><!--準拠法--><a href=""></a></th>
       <th><!--管轄裁判所--></th>
