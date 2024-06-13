@@ -105,8 +105,8 @@
       　　<tbody>
      <tr>
       <th><!--Service Type-->API</th>
-      <th><!--Service Name--><a href="https://openai.com/chatgpt/">ChatGPT　API</a></th>
-      <th><!--Plan/ Model-->GPT-3.5, 4, 4o</th>
+      <th><!--Service Name--><a href="https://openai.com/index/openai-api/">OpenAI API</a></th>
+      <th><!--Plan/ Model--><a href="https://openai.com/api/">ALL API</a></th>
       <th><!--Service Provider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Model Procider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Term of Use--><a href="https://openai.com/policies/business-terms/">URL</a></th>
