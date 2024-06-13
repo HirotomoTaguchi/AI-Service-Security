@@ -23,7 +23,7 @@
    <tbody>
      <tr>
        <th><!--Service Type-->SaaS</th>
-       <th><!--Service Name--><a href="https://openai.com/chatgpt/" onclick="window.open(this.href, '_blank'); return false;">ChatGPT</a></th>
+       <th><!--Service Name--><a href="https://openai.com/chatgpt/">ChatGPT</a></th>
        <th><!--Plan/ Model-->Free</th>
        <th><!--Service Provider-->OpenAI</th>
        <th><!--Model Procider-->OpenAI</th>
