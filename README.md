@@ -125,7 +125,7 @@
    <tbody>
      <tr>
       <th><!--Service Type-->API</th>
-      <th><!--Service Name--><a href=""></a>Azure OpenAI Searvice</th>
+      <th><!--Service Name--><a href=""></a>Azure OpenAI</th>
       <th><!--Plan/ Model-->GPT-3.5-Turbo-0613</th>
       <th><!--Service Provider--><a href="">Microsoft</a></th>
       <th><!--Model Procider--><a href="https://openai.com/about/">OpenAI</a></th>
