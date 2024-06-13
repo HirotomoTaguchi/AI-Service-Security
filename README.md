@@ -4,15 +4,15 @@
  <table>
    <thead>
      <tr>
-       <th>Service-Type</th>
-       <th>Service-Name</th>
+       <th>ServiceType</th>
+       <th>ServiceName</th>
        <th>Plan/Model</th>
-       <th>Service-Provider</th>
-       <th>Model-Procider</th>
+       <th>ServiceProvider</th>
+       <th>ModelProcider</th>
        <th>Term of Use</th>
        <th>Privacy Policy</th>
-       <th>Model-Training (学習への利用)</th>
-       <th>Data-Retention (データの保存)</th>
+       <th>ModelTraining (学習への利用)</th>
+       <th>DataRetention (データの保存)</th>
        <th>Region</th>
        <th>Japan-Region</th>
        <th>Governing-Law (準拠法)</th>
