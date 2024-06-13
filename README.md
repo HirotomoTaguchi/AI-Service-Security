@@ -8,7 +8,7 @@
        <th>ServiceName</th>
        <th>Plan/Model</th>
        <th>ServiceProvider</th>
-       <th>ModelProcider</th>
+       <th>ModelProvider</th>
        <th>Term</th>
        <th>Privacy Policy</th>
        <th>ModelTraining (学習利用)</th>
@@ -120,6 +120,26 @@
       <th><!--ISO27001--><a href="https://openai.com/policies/supplier-security-measures/">Yes</a></th>
       <th><!--SOC2--><a href="https://trust.openai.com/">Type2</a></th>
       <th><!--ISMAP-->NO</th>
+     </tr>
+   </tbody>
+   <tbody>
+     <tr>
+      <th><!--Service Type-->API</th>
+      <th><!--Service Name--><a href=""></a>Azure OpenAI Searvice</th>
+      <th><!--Plan/ Model-->GPT-3.5-Turbo-0613</th>
+      <th><!--Service Provider--><a href="">Microsoft</a></th>
+      <th><!--Model Procider--><a href="https://openai.com/about/">OpenAI</a></th>
+      <th><!--Term of Use--><a href="">URL</a></th>
+      <th><!--Privacy Policy--><a href="">URL</a></th>
+      <th><!--学習への利用--><a href="">しない</a></th>
+      <th><!--データ保持--><a href="">30日</a></th>
+      <th><!--リージョン--><a href="">US, CA etc,</a></th>
+      <th><!--日本リージョン有無--><a href="">あり</a></th>
+      <th><!--準拠法--><a href=""></a></th>
+      <th><!--管轄裁判所--></th>
+      <th><!--ISO27001--><a href="">Yes</a></th>
+      <th><!--SOC2--><a href="">Type2</a></th>
+      <th><!--ISMAP--><a href="">Yes</a></th>
      </tr>
    </tbody>
  </table>
