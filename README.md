@@ -27,7 +27,7 @@
        <th><!--Plan/ Model-->Free</th>
        <th><!--Service Provider-->OpenAI</th>
        <th><!--Model Procider-->OpenAI</th>
-       <th><!--学習への利用-->利用する(オプトアウト可能)</th>
+       <th><!--学習への利用-->利用する</th>
        <th><!--データ保持-->30日</th>
        <th><!--リージョン-->US</th>
        <th><!--日本リージョン有無-->なし</th>
