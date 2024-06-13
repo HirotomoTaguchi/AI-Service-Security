@@ -12,7 +12,7 @@
        <th>Term</th>
        <th>Privacy Policy</th>
        <th>ModelTraining (学習利用)</th>
-       <th>DataRetention (データの保存)</th>
+       <th>DataRetention (データ保持)</th>
        <th>Region</th>
        <th>Japan-Region</th>
        <th>Governing-Law (準拠法)</th>
