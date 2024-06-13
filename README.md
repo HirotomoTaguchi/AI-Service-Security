@@ -56,7 +56,7 @@
       <th><!--リージョン--><a href="https://openai.com/ja-JP/policies/terms-of-use/">US</a></th>
       <th><!--日本リージョン有無--><a href="https://openai.com/ja-JP/policies/terms-of-use/">なし</a></th>
       <th><!--準拠法--><a href="https://openai.com/ja-JP/policies/terms-of-use/">カリフォルニア州法</a></th>
-      <th><!--管轄裁判所--><a href="https://openai.com/ja-JP/policies/terms-of-use/">カリフォルニア州サンフランシスコに所在する連邦裁判所又は州裁判所</a></th>
+      <th><!--管轄裁判所-->同上</th>
       <th><!--ISO27001--><a href="https://openai.com/ja-JP/policies/security-practices/">Yes</a></th>
       <th><!--SOC2--><a href="https://openai.com/ja-JP/policies/security-practices/">Type2</a></th>
       <th><!--ISMAP-->NO</th>
@@ -76,7 +76,7 @@
       <th><!--リージョン--><a href="https://openai.com/policies/business-terms/">US</a></th>
       <th><!--日本リージョン有無--><a href="https://openai.com/ja-JP/policies/terms-of-use/">なし</a></th>
       <th><!--準拠法--><a href="https://openai.com/policies/business-terms/">カリフォルニア州法</a></th>
-      <th><!--管轄裁判所--><a href="https://openai.com/policies/business-terms/">カリフォルニア州サンフランシスコに所在する連邦裁判所又は州裁判所</a></th>
+      <th><!--管轄裁判所-->同上</th>
       <th><!--ISO27001--><a href="https://openai.com/ja-JP/policies/security-practices/">Yes</a></th>
       <th><!--SOC2--><a href="https://openai.com/ja-JP/policies/security-practices/">Type2</a></th>
       <th><!--ISMAP-->NO</th>
@@ -96,7 +96,7 @@
       <th><!--リージョン--><a href="https://openai.com/policies/business-terms/">US</a></th>
       <th><!--日本リージョン有無--><a href="https://openai.com/ja-JP/policies/terms-of-use/">なし</a></th>
       <th><!--準拠法--><a href="https://openai.com/policies/business-terms/">カリフォルニア州法</a></th>
-      <th><!--管轄裁判所--><a href="https://openai.com/policies/business-terms/">カリフォルニア州サンフランシスコに所在する連邦裁判所又は州裁判所</a></th>
+      <th><!--管轄裁判所-->同上</th>
       <th><!--ISO27001--><a href="https://openai.com/ja-JP/policies/security-practices/">Yes</a></th>
       <th><!--SOC2--><a href="https://openai.com/ja-JP/policies/security-practices/">Type2</a></th>
       <th><!--ISMAP-->NO</th>
@@ -116,7 +116,7 @@
       <th><!--リージョン--><a href="https://openai.com/policies/business-terms/">US</a></th>
       <th><!--日本リージョン有無--><a href="https://openai.com/ja-JP/policies/terms-of-use/">なし</a></th>
       <th><!--準拠法--><a href="https://openai.com/policies/business-terms/">カリフォルニア州法</a></th>
-      <th><!--管轄裁判所--><a href="https://openai.com/policies/business-terms/">カリフォルニア州サンフランシスコに所在する連邦裁判所又は州裁判所</a></th>
+      <th><!--管轄裁判所-->同上</th>
       <th><!--ISO27001--><a href="https://openai.com/ja-JP/policies/security-practices/">Yes</a></th>
       <th><!--SOC2--><a href="https://openai.com/ja-JP/policies/security-practices/">Type2</a></th>
       <th><!--ISMAP-->NO</th>
