@@ -12,9 +12,6 @@
 - 本資料の利用によって生じたいかなる損害についても、著者は一切の責任を負いかねます。
 
 ## まとめ
-<documents>
-<document index="1">
-<source>paste.txt</source>
 <document_content><div style="overflow-x: auto;">
  <table>
    <thead>
@@ -565,6 +562,3 @@
    </tbody>
  </table>
 </div>
-</document_content>
-</document>
-</documents>
