@@ -12,7 +12,7 @@
 - 本資料の利用によって生じたいかなる損害についても、著者は一切の責任を負いかねます。
 
 ## まとめ
-<document_content><div style="overflow-x: auto;">
+<div style="overflow-x: auto;">
  <table>
    <thead>
      <tr>
