@@ -53,7 +53,7 @@
       <th><!--ISO27001--><a href="https://openai.com/policies/supplier-security-measures/">Yes</a></th>
       <th><!--SOC2-->NO</th>
       <th><!--ISMAP-->NO</th>
-      <th></th>  
+      <th><!--NOTE--></th>  
      </tr>
    </tbody>
   　　<tbody>
@@ -74,7 +74,7 @@
       <th><!--ISO27001--><a href="https://openai.com/policies/supplier-security-measures/">Yes</a></th>
       <th><!--SOC2-->NO</th>
       <th><!--ISMAP-->NO</th>
-      <th></th>
+      <th><!--NOTE--></th>
      </tr>
    </tbody>
     　　<tbody>
@@ -95,7 +95,7 @@
       <th><!--ISO27001--><a href="https://openai.com/policies/supplier-security-measures/">Yes</a></th>
       <th><!--SOC2--><a href="https://trust.openai.com/">Type2</a></th>
       <th><!--ISMAP-->NO</th>
-      <th></th>
+      <th><!--NOTE--></th>
      </tr>
    </tbody>
     　　<tbody>
@@ -116,7 +116,7 @@
       <th><!--ISO27001--><a href="https://openai.com/policies/supplier-security-measures/">Yes</a></th>
       <th><!--SOC2--><a href="https://trust.openai.com/">Type2</a></th>
       <th><!--ISMAP-->NO</th>
-      <th></th>
+      <th><!--NOTE--></th>
      </tr>
    </tbody>
       　　<tbody>
@@ -137,7 +137,7 @@
       <th><!--ISO27001--><a href="https://openai.com/policies/supplier-security-measures/">Yes</a></th>
       <th><!--SOC2--><a href="https://trust.openai.com/">Type2</a></th>
       <th><!--ISMAP-->NO</th>
-      <th></th>
+      <th><!--NOTE--></th>
      </tr>
    </tbody>
    <tbody>
@@ -158,7 +158,7 @@
       <th><!--ISO27001--><a href="">Yes</a></th>
       <th><!--SOC2--><a href="">Type2</a></th>
       <th><!--ISMAP--><a href="">Yes</a></th>
-      <th></th>
+      <th><!--NOTE--></th>
      </tr>
    </tbody>
    <tbody>
@@ -179,13 +179,13 @@
       <th><!--ISO27001--></th>
       <th><!--SOC2--></th>
       <th><!--ISMAP--></th>
-      <th></th>
+      <th><!--NOTE--></th>
      </tr>
    </tbody>
    <tbody>
      <tr>
       <th><!--Service Type--></th>
-      <th><!--Service Name-->Copilot 商用データ保護 (Bing Search Enterprise)</th>
+      <th><!--Service Name-->Copilot 商用データ保護 </th>
       <th><!--Plan/ Model--></th>
       <th><!--Service Provider--></th>
       <th><!--Model Procider--></th>
@@ -200,7 +200,7 @@
       <th><!--ISO27001--></th>
       <th><!--SOC2--></th>
       <th><!--ISMAP--></th>
-      <th></th>
+      <th><!--NOTE-->旧：Bing Search Enterprise </th>
      </tr>
    </tbody>
    <tbody>
@@ -221,7 +221,7 @@
       <th><!--ISO27001--></th>
       <th><!--SOC2--></th>
       <th><!--ISMAP--></th>
-      <th></th>
+      <th><!--NOTE--></th>
      </tr>
    </tbody>
    <tbody>
@@ -234,16 +234,16 @@
       <th><!--Term of Use--></th>
       <th><!--Privacy Policy--></th>
       <th><!--学習への利用--></th>
-<th><!--データ保持--></th>
-<th><!--リージョン--></th>
-<th><!--日本リージョン有無--></th>
-<th><!--準拠法--></th>
-<th><!--管轄裁判所--></th>
-<th><!--ISO27001--></th>
-<th><!--SOC2--></th>
-<th><!--ISMAP--></th>
-<th></th>
-</tr>
+      <th><!--データ保持--></th>
+      <th><!--リージョン--></th>
+      <th><!--日本リージョン有無--></th>
+      <th><!--準拠法--></th>
+      <th><!--管轄裁判所--></th>
+      <th><!--ISO27001--></th>
+      <th><!--SOC2--></th>
+      <th><!--ISMAP--></th>
+      <th><!--NOTE--></th>
+     </tr>
    </tbody>
    <tbody>
      <tr>
@@ -263,7 +263,7 @@
       <th><!--ISO27001--></th>
       <th><!--SOC2--></th>
       <th><!--ISMAP--></th>
-      <th></th>
+      <th><!--NOTE--></th>
      </tr>
    </tbody>
    <tbody>
@@ -284,7 +284,7 @@
       <th><!--ISO27001--></th>
       <th><!--SOC2--></th>
       <th><!--ISMAP--></th>
-      <th></th>
+      <th><!--NOTE--></th>
      </tr>
    </tbody>
    <tbody>
@@ -305,7 +305,7 @@
       <th><!--ISO27001--></th>
       <th><!--SOC2--></th>
       <th><!--ISMAP--></th>
-      <th></th>
+      <th><!--NOTE--></th>
      </tr>
    </tbody>
    <tbody>
@@ -326,7 +326,7 @@
       <th><!--ISO27001--></th>
       <th><!--SOC2--></th>
       <th><!--ISMAP--></th>
-      <th></th>      
+      <th><!--NOTE--></th>      
      </tr>
    </tbody>
    <tbody>
@@ -347,7 +347,7 @@
       <th><!--ISO27001--></th>
       <th><!--SOC2--></th>
       <th><!--ISMAP--></th>
-      <th></th>
+      <th><!--NOTE--></th>
      </tr>
    </tbody>
    <tbody>
@@ -368,7 +368,7 @@
       <th><!--ISO27001--></th>
       <th><!--SOC2--></th>
       <th><!--ISMAP--></th>
-      <th></th>
+      <th><!--NOTE--></th>
      </tr>
    </tbody>
    <tbody>
@@ -389,7 +389,7 @@
       <th><!--ISO27001--></th>
       <th><!--SOC2--></th>
       <th><!--ISMAP--></th>
-      <th></th>
+      <th><!--NOTE--></th>
      </tr>
    </tbody>
    <tbody>
@@ -410,7 +410,7 @@
       <th><!--ISO27001--></th>
       <th><!--SOC2--></th>
       <th><!--ISMAP--></th>
-      <th></th>
+      <th><!--NOTE--></th>
      </tr>
    </tbody>
    <tbody>
@@ -431,7 +431,7 @@
       <th><!--ISO27001--></th>
       <th><!--SOC2--></th>
       <th><!--ISMAP--></th>
-      <th></th>
+      <th><!--NOTE--></th>
      </tr>
    </tbody>
    <tbody>
@@ -452,7 +452,7 @@
       <th><!--ISO27001--></th>
       <th><!--SOC2--></th>
       <th><!--ISMAP--></th>
-      <th></th>
+      <th><!--NOTE--></th>
      </tr>
    </tbody>
    <tbody>
@@ -473,7 +473,7 @@
       <th><!--ISO27001--></th>
       <th><!--SOC2--></th>
       <th><!--ISMAP--></th>
-      <th></th>
+      <th><!--NOTE--></th>
      </tr>
    </tbody>
    <tbody>
@@ -494,7 +494,7 @@
       <th><!--ISO27001--></th>
       <th><!--SOC2--></th>
       <th><!--ISMAP--></th>
-      <th></th>
+      <th><!--NOTE--></th>
      </tr>
    </tbody>
    <tbody>
@@ -515,7 +515,7 @@
       <th><!--ISO27001--></th>
       <th><!--SOC2--></th>
       <th><!--ISMAP--></th>
-      <th></th>
+      <th><!--NOTE--></th>
      </tr>
    </tbody>
    <tbody>
@@ -536,7 +536,7 @@
       <th><!--ISO27001--></th>
       <th><!--SOC2--></th>
       <th><!--ISMAP--></th>
-      <th></th>
+      <th><!--NOTE--></th>
      </tr>
    </tbody>
    <tbody>
@@ -557,7 +557,7 @@
       <th><!--ISO27001--></th>
       <th><!--SOC2--></th>
       <th><!--ISMAP--></th>
-      <th></th>  
+      <th><!--NOTE--></th>  
      </tr>
    </tbody>
  </table>
