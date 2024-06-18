@@ -18,7 +18,7 @@
  <table>
    <thead>
      <tr>
-       <th>ServiceName</th>
+       <th>GenAI_ServiceName</th>
        <th>ServicePlan/ModelName</th>
        <th>ServiceType</th>
        <th>ServiceProvider</th>
