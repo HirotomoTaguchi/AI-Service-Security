@@ -132,7 +132,7 @@
       <th><!--データ保持--><a href="https://openai.com/policies/business-terms/">30日</a></th>
       <th><!--リージョン--><a href="https://openai.com/policies/business-terms/">US</a></th>
       <th><!--日本リージョン有無--><a href="https://openai.com/ja-JP/policies/terms-of-use/">なし</a></th>
-      <th><!--準拠法--><a href="https://openai.com/policies/business-terms/">カリフォルニア州法</a></th>
+      <th><!--準拠法-->同上</th>
       <th><!--管轄裁判所-->同上</th>
       <th><!--ISO27001--><a href="https://openai.com/policies/supplier-security-measures/">Yes</a></th>
       <th><!--SOC2--><a href="https://trust.openai.com/">Type2</a></th>
@@ -144,7 +144,7 @@
      <tr>
       <th><!--Service Type-->API</th>
       <th><!--Service Name--><a href=""></a>Azure OpenAI</th>
-      <th><!--Plan/ Model-->GPT-3.5-Turbo-0613(4K)</th>
+      <th><!--Plan/ Model-->GPT/Whisper/DALL·E</th>
       <th><!--Service Provider--><a href="">Microsoft</a></th>
       <th><!--Model Procider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Term of Use--><a href="">URL</a></th>
