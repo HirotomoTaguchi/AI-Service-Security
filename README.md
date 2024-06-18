@@ -34,7 +34,7 @@
        <th>ISO27001</th>
        <th>SOC2</th>
        <th>ISMAP</th>
-       <th>Note</th>
+       <th>Other_noteworthy_items</th>
      </tr>
    </thead>
    <tbody>
