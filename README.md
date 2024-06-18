@@ -145,14 +145,14 @@
       <th><!--Service Type-->API</th>
       <th><!--Service Name--><a href=""></a>Azure OpenAI</th>
       <th><!--Plan/ Model-->GPT/Whisper/DALL·E</th>
-      <th><!--Service Provider--><a href="">Microsoft</a></th>
+      <th><!--Service Provider--><a href="https://www.microsoft.com/ja-jp/">Microsoft</a></th>
       <th><!--Model Procider--><a href="https://openai.com/about/">OpenAI</a></th>
-      <th><!--Term of Use--><a href="">URL</a></th>
-      <th><!--Privacy Policy--><a href="">URL</a></th>
-      <th><!--学習への利用--><a href="">しない</a></th>
-      <th><!--データ保持--><a href="">30日</a></th>
-      <th><!--リージョン--><a href="">Many</a></th>
-      <th><!--日本リージョン有無--><a href="">あり</a></th>
+      <th><!--Term of Use--><a href="https://www.microsoft.com/licensing/docs/customeragreement">URL</a></th>
+      <th><!--Privacy Policy--><a href="https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy">URL</a></th>
+      <th><!--学習への利用--><a href="https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy">しない</a></th>
+      <th><!--データ保持--><a href="https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy">30日</a></th>
+      <th><!--リージョン--><a href="https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/models#standard-deployment-model-availability">世界各地</a></th>
+      <th><!--日本リージョン有無--><a href="https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/models#standard-deployment-model-availability">あり</a></th>
       <th><!--準拠法--><a href=""></a></th>
       <th><!--管轄裁判所--></th>
       <th><!--ISO27001--><a href="">Yes</a></th>
