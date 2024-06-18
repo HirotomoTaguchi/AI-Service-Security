@@ -18,18 +18,18 @@
  <table>
    <thead>
      <tr>
-       <th>Gen_AI_Service_Name</th>
+       <th>Generative_AI_Service_Name</th>
        <th>Service_Plan/AI_Model_Name</th>
-       <th>ServiceType</th>
-       <th>ServiceProvider</th>
-       <th>ModelProvider</th>
+       <th>Service_Type</th>
+       <th>Service_Provider</th>
+       <th>Model_Provider</th>
        <th>Term</th>
        <th>Privacy Policy</th>
-       <th>ModelTraining (学習利用)</th>
-       <th>DataRetention (データ保持)</th>
+       <th>AI_Model_Training_by_default (既定での学習利用)</th>
+       <th>Data_Retention (データ保持)</th>
        <th>Region</th>
-       <th>Japan-Region</th>
-       <th>GoverningLaw (準拠法)</th>
+       <th>Japan_Region</th>
+       <th>Governing_Law (準拠法)</th>
        <th>Jurisdiction (管轄裁判所)</th>
        <th>ISO27001</th>
        <th>SOC2</th>
