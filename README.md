@@ -41,7 +41,7 @@
      <tr>
       <th><!--Service Type-->SaaS</th>
       <th><!--Service Name--><a href="https://openai.com/chatgpt/">ChatGPT</a></th>
-      <th><!--Plan/ Model-->Free</th>
+      <th><!--Plan/ Model-->Free Plan</th>
       <th><!--Service Provider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Model Procider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Term of Use--><a href="https://openai.com/ja-JP/policies/terms-of-use/">URL</a></th>
@@ -62,7 +62,7 @@
      <tr>
       <th><!--Service Type-->SaaS</th>
       <th><!--Service Name--><a href="https://openai.com/chatgpt/">ChatGPT</a></th>
-      <th><!--Plan/ Model-->Plus</th>
+      <th><!--Plan/ Model-->Plus Plan</th>
       <th><!--Service Provider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Model Procider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Term of Use--><a href="https://openai.com/ja-JP/policies/terms-of-use/">URL</a></th>
@@ -83,7 +83,7 @@
      <tr>
       <th><!--Service Type-->SaaS</th>
       <th><!--Service Name--><a href="https://openai.com/chatgpt/">ChatGPT</a></th>
-      <th><!--Plan/ Model-->Team</th>
+      <th><!--Plan/ Model-->Team Plan</th>
       <th><!--Service Provider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Model Procider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Term of Use--><a href="https://openai.com/policies/business-terms/">URL</a></th>
@@ -104,7 +104,7 @@
      <tr>
       <th><!--Service Type-->SaaS</th>
       <th><!--Service Name--><a href="https://openai.com/chatgpt/">ChatGPT</a></th>
-      <th><!--Plan/ Model-->Enterprise</th>
+      <th><!--Plan/ Model-->Enterprise Plan</th>
       <th><!--Service Provider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Model Procider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Term of Use--><a href="https://openai.com/policies/business-terms/">URL</a></th>
@@ -125,7 +125,7 @@
      <tr>
       <th><!--Service Type-->API</th>
       <th><!--Service Name--><a href="https://openai.com/index/openai-api/">OpenAI API</a></th>
-      <th><!--Plan/ Model--><a href="https://openai.com/api/">ALL API</a></th>
+      <th><!--Plan/ Model-->GPT/Whisper/DALL·E</th>
       <th><!--Service Provider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Model Procider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Term of Use--><a href="https://openai.com/policies/business-terms/">URL</a></th>
@@ -145,14 +145,14 @@
    <tbody>
      <tr>
       <th><!--Service Type-->API</th>
-      <th><!--Service Name--><a href=""></a>Azure OpenAI</th>
+      <th><!--Service Name--><a href="https://learn.microsoft.com/en-us/azure/ai-services/openai/"></a>Azure OpenAI</th>
       <th><!--Plan/ Model-->GPT/Whisper/DALL·E</th>
       <th><!--Service Provider--><a href="https://www.microsoft.com/ja-jp/">Microsoft</a></th>
       <th><!--Model Procider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Term of Use--><a href="https://www.microsoft.com/licensing/docs/customeragreement">URL</a></th>
       <th><!--Privacy Policy--><a href="https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy">URL</a></th>
       <th><!--学習への利用--><a href="https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy">しない</a></th>
-      <th><!--データ保持--><a href="https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy">30日</a></th>
+      <th><!--データ保持--><a href="https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy">30日</a> ※<a href="https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/abuse-monitoring#:~:text=Azure%20OpenAI%20Limited%20Access%20Review%3A%20Modified%20Abuse%20Monitoring">オプトアウト申請</a>が承認されれば、データは保持されない。</th>
       <th><!--リージョン--><a href="https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/models#standard-deployment-model-availability">世界各地</a></th>
       <th><!--日本リージョン有無--><a href="https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/models#standard-deployment-model-availability">あり</a></th>
       <th><!--準拠法--><a href="https://www.microsoft.com/licensing/docs/customeragreement">日本法</a></th>
@@ -167,20 +167,20 @@
      <tr>
       <th><!--Service Type--></th>
       <th><!--Service Name-->Copilot for Microsft 365</th>
-      <th><!--Plan/ Model--></th>
-      <th><!--Service Provider--></th>
-      <th><!--Model Procider--></th>
-      <th><!--Term of Use--></th>
-      <th><!--Privacy Policy--></th>
-      <th><!--学習への利用--></th>
-      <th><!--データ保持--></th>
-      <th><!--リージョン--></th>
-      <th><!--日本リージョン有無--></th>
-      <th><!--準拠法--></th>
-      <th><!--管轄裁判所--></th>
+      <th><!--Plan/ Model-->SaaS</th>
+      <th><!--Service Provider-->同上</th>
+      <th><!--Model Procider-->同上</th>
+      <th><!--Term of Use--><a href=""></a></th>
+      <th><!--Privacy Policy--><a href=""></a></th>
+      <th><!--学習への利用--><a href=""></a></th>
+      <th><!--データ保持--><a href=""></a></th>
+      <th><!--リージョン--><a href=""></a></th>
+      <th><!--日本リージョン有無--><a href=""></a></th>
+      <th><!--準拠法--><a href=""></a></th>
+      <th><!--管轄裁判所--><a href=""></a></th>
       <th><!--ISO27001--></th>
       <th><!--SOC2--></th>
-      <th><!--ISMAP--></th>
+      <th><!--ISMAP-->NO</th>
       <th><!--NOTE--></th>
      </tr>
    </tbody>
