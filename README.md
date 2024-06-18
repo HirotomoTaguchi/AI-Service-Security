@@ -5,10 +5,12 @@
 
 ## 本書について
 - プルリクエストも歓迎しています。AIサービスは日々アップデートされるため、最新情報の追加にご協力いただけると助かります。
+- 1人でメンテしているので、多少の誤字脱字や誤植は多めに見ていただけると幸いです。
 
 ## 免責事項
-- 本資料は2023年8月時点の情報に基づくものであり、その正確性を保証するものではありません。
+- 本資料は2024年6月時点の情報に基づくものであり、その正確性を保証するものではありません。
 - 各社のサービス内容は頻繁に変更されるため、最新の情報は必ず公式サイトなどでご確認ください。
+- 適用される規約や法令については、日本国内で一般的に利用する形を想定して記載しております。当然、企業間契約においては別の規約が適用される可能性がありますので、必ず自社の締結している契約をご確認ください。
 - 本資料の利用によって生じたいかなる損害についても、著者は一切の責任を負いかねます。
 
 ## まとめ
@@ -153,11 +155,11 @@
       <th><!--データ保持--><a href="https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy">30日</a></th>
       <th><!--リージョン--><a href="https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/models#standard-deployment-model-availability">世界各地</a></th>
       <th><!--日本リージョン有無--><a href="https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/models#standard-deployment-model-availability">あり</a></th>
-      <th><!--準拠法--><a href=""></a></th>
-      <th><!--管轄裁判所--></th>
-      <th><!--ISO27001--><a href="">Yes</a></th>
-      <th><!--SOC2--><a href="">Type2</a></th>
-      <th><!--ISMAP--><a href="">Yes</a></th>
+      <th><!--準拠法--><a href="https://www.microsoft.com/licensing/docs/customeragreement">日本法</a></th>
+      <th><!--管轄裁判所--><a href="https://www.microsoft.com/licensing/docs/customeragreement">東京地方裁判所</a></th>
+      <th><!--ISO27001--><a href="https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-iso-27001">Yes</a></th>
+      <th><!--SOC2--><a href="https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-soc-2">Type2</a></th>
+      <th><!--ISMAP--><a href="https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=aca3e34e938c8e100072f4fe3bba10ba">Yes</a></th>
       <th><!--NOTE--></th>
      </tr>
    </tbody>
@@ -458,7 +460,7 @@
    <tbody>
      <tr>
       <th><!--Service Type--></th>
-      <th><!--Service Name-->Bedrock (Claude)</th>
+      <th><!--Service Name-->Amazon Bedrock</th>
       <th><!--Plan/ Model--></th>
       <th><!--Service Provider--></th>
       <th><!--Model Procider--></th>
@@ -472,7 +474,7 @@
       <th><!--管轄裁判所--></th>
       <th><!--ISO27001--></th>
       <th><!--SOC2--></th>
-      <th><!--ISMAP--></th>
+      <th><!--ISMAP--><a href="https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=c8e0b6cc9361c610a734bb497bba104f">Yes</a></th>
       <th><!--NOTE--></th>
      </tr>
    </tbody>
