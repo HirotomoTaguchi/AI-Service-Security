@@ -30,7 +30,7 @@
        <th>Region</th>
        <th>Japan_Region</th>
        <th>Governing_Law (準拠法)</th>
-       <th>Jurisdiction (管轄裁判所)</th>
+       <th>Competent_Court (管轄裁判所)</th>
        <th>ISO27001</th>
        <th>SOC2</th>
        <th>ISMAP</th>
