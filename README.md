@@ -586,4 +586,4 @@
  </table>
 </div>
 
-[^1]: <a href="https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/abuse-monitoring#:~:text=Azure%20OpenAI%20Limited%20Access%20Review%3A%20Modified%20Abuse%20Monitoring">オプトアウト申請</a>が承認されれば、データは保持されない。
+*1:<a href="https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/abuse-monitoring#:~:text=Azure%20OpenAI%20Limited%20Access%20Review%3A%20Modified%20Abuse%20Monitoring">オプトアウト申請</a>が承認されれば、データは保持されない。
