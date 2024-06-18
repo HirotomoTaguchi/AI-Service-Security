@@ -18,8 +18,8 @@
  <table>
    <thead>
      <tr>
-       <th>GenAI_ServiceName</th>
-       <th>ServicePlan/ModelName</th>
+       <th>Gen_AI_Service_Name</th>
+       <th>Service_Plan/AI_Model_Name</th>
        <th>ServiceType</th>
        <th>ServiceProvider</th>
        <th>ModelProvider</th>
