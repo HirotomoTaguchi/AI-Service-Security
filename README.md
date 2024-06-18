@@ -165,32 +165,32 @@
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Type--></th>
+      <th><!--Service Type-->SaaS</th>
       <th><!--Service Name-->Copilot for Microsft 365</th>
-      <th><!--Plan/ Model-->SaaS</th>
+      <th><!--Plan/ Model-->GPT-4</th>
       <th><!--Service Provider-->同上</th>
       <th><!--Model Procider-->同上</th>
       <th><!--Term of Use--><a href=""></a></th>
-      <th><!--Privacy Policy--><a href=""></a></th>
-      <th><!--学習への利用--><a href=""></a></th>
-      <th><!--データ保持--><a href=""></a></th>
-      <th><!--リージョン--><a href=""></a></th>
-      <th><!--日本リージョン有無--><a href=""></a></th>
+      <th><!--Privacy Policy--><a href="https://privacy.microsoft.com/ja-jp/"></a>URL</th>
+      <th><!--学習への利用--><a href="https://learn.microsoft.com/ja-jp/copilot/microsoft-365/microsoft-365-copilot-privacy"></a>しない</th>
+      <th><!--データ保持-->調査中</th>
+      <th><!--リージョン--><a href="https://learn.microsoft.com/ja-jp/microsoft-365/enterprise/m365-dr-workload-copilot?view=o365-worldwide"></a>世界各地</th>
+      <th><!--日本リージョン有無--><a href="https://learn.microsoft.com/ja-jp/microsoft-365/enterprise/m365-dr-workload-copilot?view=o365-worldwide"></a>あり</th>
       <th><!--準拠法--><a href=""></a></th>
       <th><!--管轄裁判所--><a href=""></a></th>
-      <th><!--ISO27001--></th>
-      <th><!--SOC2--></th>
-      <th><!--ISMAP-->NO</th>
-      <th><!--NOTE--></th>
+      <th><!--ISO27001-->調査中</th>
+      <th><!--SOC2-->調査中</th>
+      <th><!--ISMAP-->調査中</th>
+      <th><!--NOTE-->Webコンテンツプラグインや拡張については別途確認が必要</th>
      </tr>
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Type--></th>
-      <th><!--Service Name-->Copilot 商用データ保護 </th>
-      <th><!--Plan/ Model--></th>
-      <th><!--Service Provider--></th>
-      <th><!--Model Procider--></th>
+      <th><!--Service Type-->SaaS</th>
+      <th><!--Service Name-->商用データ保護 Copilot</th>
+      <th><!--Plan/ Model-->GPT-4</th>
+      <th><!--Service Provider-->同上</th>
+      <th><!--Model Procider-->同上</th>
       <th><!--Term of Use--></th>
       <th><!--Privacy Policy--></th>
       <th><!--学習への利用--></th>
