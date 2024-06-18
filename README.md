@@ -18,9 +18,9 @@
  <table>
    <thead>
      <tr>
-       <th>ServiceType</th>
        <th>ServiceName</th>
        <th>ServicePlan/ModelName</th>
+       <th>ServiceType</th>
        <th>ServiceProvider</th>
        <th>ModelProvider</th>
        <th>Term</th>
@@ -39,9 +39,9 @@
    </thead>
    <tbody>
      <tr>
-      <th><!--Service Type-->SaaS</th>
       <th><!--Service Name--><a href="https://openai.com/chatgpt/">ChatGPT</a></th>
       <th><!--Plan/ Model-->Free Plan</th>
+      <th><!--Service Type-->SaaS</th>
       <th><!--Service Provider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Model Procider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Term of Use--><a href="https://openai.com/ja-JP/policies/terms-of-use/">URL</a></th>
@@ -60,9 +60,9 @@
    </tbody>
   　　<tbody>
      <tr>
-      <th><!--Service Type-->SaaS</th>
       <th><!--Service Name--><a href="https://openai.com/chatgpt/">ChatGPT</a></th>
       <th><!--Plan/ Model-->Plus Plan</th>
+      <th><!--Service Type-->SaaS</th>
       <th><!--Service Provider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Model Procider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Term of Use--><a href="https://openai.com/ja-JP/policies/terms-of-use/">URL</a></th>
@@ -81,9 +81,9 @@
    </tbody>
     　　<tbody>
      <tr>
-      <th><!--Service Type-->SaaS</th>
       <th><!--Service Name--><a href="https://openai.com/chatgpt/">ChatGPT</a></th>
       <th><!--Plan/ Model-->Team Plan</th>
+      <th><!--Service Type-->SaaS</th>
       <th><!--Service Provider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Model Procider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Term of Use--><a href="https://openai.com/policies/business-terms/">URL</a></th>
@@ -102,9 +102,9 @@
    </tbody>
     　　<tbody>
      <tr>
-      <th><!--Service Type-->SaaS</th>
       <th><!--Service Name--><a href="https://openai.com/chatgpt/">ChatGPT</a></th>
       <th><!--Plan/ Model-->Enterprise Plan</th>
+      <th><!--Service Type-->SaaS</th>
       <th><!--Service Provider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Model Procider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Term of Use--><a href="https://openai.com/policies/business-terms/">URL</a></th>
@@ -123,9 +123,9 @@
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Type-->API</th>
       <th><!--Service Name--><a href="https://openai.com/index/openai-api/">OpenAI API</a></th>
       <th><!--Plan/ Model-->GPT/Whisper/DALL·E</th>
+      <th><!--Service Type-->API</th>
       <th><!--Service Provider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Model Procider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Term of Use--><a href="https://openai.com/policies/business-terms/">URL</a></th>
@@ -144,9 +144,9 @@
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Type-->API</th>
       <th><!--Service Name--><a href="https://learn.microsoft.com/en-us/azure/ai-services/openai/"></a>Azure OpenAI</th>
       <th><!--Plan/ Model-->GPT/Whisper/DALL·E</th>
+      <th><!--Service Type-->API</th> 
       <th><!--Service Provider--><a href="https://www.microsoft.com/ja-jp/">Microsoft</a></th>
       <th><!--Model Procider--><a href="https://openai.com/about/">OpenAI</a></th>
       <th><!--Term of Use--><a href="https://www.microsoft.com/licensing/docs/customeragreement">URL</a></th>
@@ -165,9 +165,9 @@
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Type-->SaaS</th>
       <th><!--Service Name-->Copilot for Microsft 365</th>
       <th><!--Plan/ Model-->GPT-4</th>
+      <th><!--Service Type-->SaaS</th>
       <th><!--Service Provider-->同上</th>
       <th><!--Model Procider-->同上</th>
       <th><!--Term of Use--><a href="https://www.microsoft.com/ja-jp/legal/terms-of-use#:~:text=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%E3%81%8C%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AB%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E3%81%AF%E3%80%81%E4%BB%A5%E4%B8%8B%E3%81%AE%E4%BD%BF%E7%94%A8%E6%9D%A1%E4%BB%B6%20%28%E4%BB%A5%E4%B8%8B%E3%80%8C%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%9D%A1%E4%BB%B6%E3%80%8D%E3%81%A8%E3%81%84%E3%81%84%E3%81%BE%E3%81%99%29%20%E3%81%8C%E9%81%A9%E7%94%A8%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%E3%80%82%20%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%E3%81%AF%E3%80%81%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AB%E9%80%9A%E7%9F%A5%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AA%E3%81%8F%E3%81%84%E3%81%A4%E3%81%A7%E3%82%82%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%9D%A1%E4%BB%B6%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%8A%E3%82%88%E3%81%B3%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E6%A8%A9%E5%88%A9%E3%82%92%E6%9C%89%E3%81%97%E3%81%BE%E3%81%99%E3%80%82%20%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%9D%A1%E4%BB%B6%E3%81%AE%E6%9C%80%E6%96%B0%E7%89%88%E3%81%AF%E3%80%81%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%20Web,%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%8B%E9%83%A8%E3%81%AB%E3%81%82%E3%82%8B%20%5B%E4%BD%BF%E7%94%A8%E6%9D%A1%E4%BB%B6%5D%20%E3%83%8F%E3%82%A4%E3%83%91%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%99%E3%82%8B%E3%81%A8%E3%81%94%E8%A6%A7%E3%81%84%E3%81%9F%E3%81%A0%E3%81%91%E3%81%BE%E3%81%99%E3%80%82%20%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%E3%81%8C%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%9D%A1%E4%BB%B6%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%99%E3%82%8B%E3%81%A8%E3%80%81%E3%81%93%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E4%B8%8A%E9%83%A8%E3%81%AB%E3%81%82%E3%82%8B%E6%97%A5%E4%BB%98%E3%81%8C%E6%9B%B4%E6%96%B0%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%E3%80%82%20%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%9D%A1%E4%BB%B6%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%9F%E5%BE%8C%E3%81%AB%20Web%20%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AB%E3%82%88%E3%82%8A%E3%80%81%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AF%E3%81%8B%E3%81%8B%E3%82%8B%E6%96%B0%E3%81%97%E3%81%84%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE%E4%BD%BF%E7%94%A8%E6%9D%A1%E4%BB%B6%E3%81%AB%E5%90%8C%E6%84%8F%E3%81%97%E3%81%9F%E3%82%82%E3%81%AE%E3%81%A8%E8%A6%8B%E3%81%AA%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%E3%80%82"></a></th>
@@ -186,9 +186,9 @@
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Type-->SaaS</th>
       <th><!--Service Name--><a href=“”>商用データ保護 Copilot</a></th>
       <th><!--Plan/ Model-->GPT-4</th>
+      <th><!--Service Type-->SaaS</th>
       <th><!--Service Provider-->同上</th>
       <th><!--Model Procider-->同上</th>
       <th><!--Term of Use--><a href="https://www.microsoft.com/ja-jp/legal/terms-of-use#:~:text=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%E3%81%8C%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AB%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E3%81%AF%E3%80%81%E4%BB%A5%E4%B8%8B%E3%81%AE%E4%BD%BF%E7%94%A8%E6%9D%A1%E4%BB%B6%20%28%E4%BB%A5%E4%B8%8B%E3%80%8C%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%9D%A1%E4%BB%B6%E3%80%8D%E3%81%A8%E3%81%84%E3%81%84%E3%81%BE%E3%81%99%29%20%E3%81%8C%E9%81%A9%E7%94%A8%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%E3%80%82%20%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%E3%81%AF%E3%80%81%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AB%E9%80%9A%E7%9F%A5%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AA%E3%81%8F%E3%81%84%E3%81%A4%E3%81%A7%E3%82%82%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%9D%A1%E4%BB%B6%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%8A%E3%82%88%E3%81%B3%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E6%A8%A9%E5%88%A9%E3%82%92%E6%9C%89%E3%81%97%E3%81%BE%E3%81%99%E3%80%82%20%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%9D%A1%E4%BB%B6%E3%81%AE%E6%9C%80%E6%96%B0%E7%89%88%E3%81%AF%E3%80%81%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%20Web,%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%8B%E9%83%A8%E3%81%AB%E3%81%82%E3%82%8B%20%5B%E4%BD%BF%E7%94%A8%E6%9D%A1%E4%BB%B6%5D%20%E3%83%8F%E3%82%A4%E3%83%91%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%99%E3%82%8B%E3%81%A8%E3%81%94%E8%A6%A7%E3%81%84%E3%81%9F%E3%81%A0%E3%81%91%E3%81%BE%E3%81%99%E3%80%82%20%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%E3%81%8C%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%9D%A1%E4%BB%B6%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%99%E3%82%8B%E3%81%A8%E3%80%81%E3%81%93%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E4%B8%8A%E9%83%A8%E3%81%AB%E3%81%82%E3%82%8B%E6%97%A5%E4%BB%98%E3%81%8C%E6%9B%B4%E6%96%B0%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%E3%80%82%20%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%9D%A1%E4%BB%B6%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%9F%E5%BE%8C%E3%81%AB%20Web%20%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AB%E3%82%88%E3%82%8A%E3%80%81%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AF%E3%81%8B%E3%81%8B%E3%82%8B%E6%96%B0%E3%81%97%E3%81%84%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE%E4%BD%BF%E7%94%A8%E6%9D%A1%E4%BB%B6%E3%81%AB%E5%90%8C%E6%84%8F%E3%81%97%E3%81%9F%E3%82%82%E3%81%AE%E3%81%A8%E8%A6%8B%E3%81%AA%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%E3%80%82"></a></th>
@@ -207,9 +207,9 @@
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Type--></th>
       <th><!--Service Name-->Microsoft Copilot(無料版)</th>
       <th><!--Plan/ Model--></th>
+      <th><!--Service Type--></th>
       <th><!--Service Provider--></th>
       <th><!--Model Procider--></th>
       <th><!--Term of Use--></th>
@@ -228,51 +228,72 @@
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Type--></th>
       <th><!--Service Name-->Github Copilot</th>
-      <th><!--Plan/ Model--></th>
-      <th><!--Service Provider--></th>
-      <th><!--Model Procider--></th>
-      <th><!--Term of Use--></th>
-      <th><!--Privacy Policy--></th>
-      <th><!--学習への利用--></th>
-      <th><!--データ保持--></th>
-      <th><!--リージョン--></th>
-      <th><!--日本リージョン有無--></th>
-      <th><!--準拠法--></th>
-      <th><!--管轄裁判所--></th>
-      <th><!--ISO27001--></th>
-      <th><!--SOC2--></th>
-      <th><!--ISMAP--></th>
-      <th><!--NOTE--></th>
-     </tr>
-   </tbody>
-   <tbody>
-     <tr>
-      <th><!--Service Type--></th>
-      <th><!--Service Name-->Github Copilot Enterprise</th>
-      <th><!--Plan/ Model--></th>
-      <th><!--Service Provider--></th>
-      <th><!--Model Procider--></th>
-      <th><!--Term of Use--></th>
-      <th><!--Privacy Policy--></th>
-      <th><!--学習への利用--></th>
-      <th><!--データ保持--></th>
-      <th><!--リージョン--></th>
-      <th><!--日本リージョン有無--></th>
-      <th><!--準拠法--></th>
-      <th><!--管轄裁判所--></th>
-      <th><!--ISO27001--></th>
-      <th><!--SOC2--></th>
-      <th><!--ISMAP--></th>
-      <th><!--NOTE--></th>
-     </tr>
-   </tbody>
-   <tbody>
-     <tr>
+      <th><!--Plan/ Model-->Individual　Plan</th>
       <th><!--Service Type-->SaaS</th>
+      <th><!--Service Provider--></th>
+      <th><!--Model Procider--></th>
+      <th><!--Term of Use--></th>
+      <th><!--Privacy Policy--></th>
+      <th><!--学習への利用--><a href=“https://github.com/features/copilot#pricing”>既定でする</a></th>
+      <th><!--データ保持--></th>
+      <th><!--リージョン--></th>
+      <th><!--日本リージョン有無--></th>
+      <th><!--準拠法--></th>
+      <th><!--管轄裁判所--></th>
+      <th><!--ISO27001--></th>
+      <th><!--SOC2--></th>
+      <th><!--ISMAP--></th>
+      <th><!--NOTE--></th>
+     </tr>
+   </tbody>
+   <tbody>
+     <tr>
+      <th><!--Service Name-->Github Copilot</th>
+      <th><!--Plan/ Model-->Business Plan</th>
+      <th><!--Service Type-->SaaS</th>
+      <th><!--Service Provider--></th>
+      <th><!--Model Procider--></th>
+      <th><!--Term of Use--></th>
+      <th><!--Privacy Policy--></th>
+      <th><!--学習への利用--><a href=“https://github.com/features/copilot#pricing”>既定でする</a></th>
+      <th><!--データ保持--></th>
+      <th><!--リージョン--></th>
+      <th><!--日本リージョン有無--></th>
+      <th><!--準拠法--></th>
+      <th><!--管轄裁判所--></th>
+      <th><!--ISO27001--></th>
+      <th><!--SOC2--></th>
+      <th><!--ISMAP--></th>
+      <th><!--NOTE--></th>
+     </tr>
+   </tbody>
+   <tbody>
+     <tr>
+      <th><!--Service Name-->Github Copilot</th>
+      <th><!--Plan/ Model-->Enterprise　Plan</th>
+      <th><!--Service Type-->SaaS</th>
+      <th><!--Service Provider--></th>
+      <th><!--Model Procider--></th>
+      <th><!--Term of Use--></th>
+      <th><!--Privacy Policy--></th>
+      <th><!--学習への利用--><a href=“https://github.com/features/copilot#pricing”>しない</a></th>
+      <th><!--データ保持--></th>
+      <th><!--リージョン--></th>
+      <th><!--日本リージョン有無--></th>
+      <th><!--準拠法--></th>
+      <th><!--管轄裁判所--></th>
+      <th><!--ISO27001--></th>
+      <th><!--SOC2--></th>
+      <th><!--ISMAP--></th>
+      <th><!--NOTE--></th>
+     </tr>
+   </tbody>
+   <tbody>
+     <tr>
       <th><!--Service Name-->Gemini（Free）</th>
       <th><!--Plan/ Model--></th>
+      <th><!--Service Type-->SaaS</th>
       <th><!--Service Provider--></th>
       <th><!--Model Procider--></th>
       <th><!--Term of Use--></th>
@@ -291,9 +312,9 @@
    </tbody>
   　　<tbody>
      <tr>
-      <th><!--Service Type--></th>
       <th><!--Service Name-->Gemini Advanced</th>
       <th><!--Plan/ Model--></th>
+      <th><!--Service Type-->SaaS</th>
       <th><!--Service Provider--></th>
       <th><!--Model Procider--></th>
       <th><!--Term of Use--></th>
@@ -312,9 +333,9 @@
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Type--></th>
       <th><!--Service Name-->Gemini Business</th>
       <th><!--Plan/ Model--></th>
+      <th><!--Service Type-->SaaS</th>
       <th><!--Service Provider--></th>
       <th><!--Model Procider--></th>
       <th><!--Term of Use--></th>
@@ -333,9 +354,9 @@
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Type--></th>
       <th><!--Service Name-->Gemini Enterprise</th>
       <th><!--Plan/ Model--></th>
+      <th><!--Service Type-->SaaS</th>
       <th><!--Service Provider--></th>
       <th><!--Model Procider--></th>
       <th><!--Term of Use--></th>
@@ -354,9 +375,9 @@
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Type--></th>
       <th><!--Service Name-->Vertex AI(Free)</th>
       <th><!--Plan/ Model--></th>
+      <th><!--Service Type-->SaaS</th>
       <th><!--Service Provider--></th>
       <th><!--Model Procider--></th>
       <th><!--Term of Use--></th>
@@ -375,9 +396,9 @@
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Type--></th>
       <th><!--Service Name-->Vertex AI (Pay as you go)</th>
       <th><!--Plan/ Model--></th>
+      <th><!--Service Type-->SaaS</th>
       <th><!--Service Provider--></th>
       <th><!--Model Procider--></th>
       <th><!--Term of Use--></th>
@@ -396,9 +417,9 @@
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Type--></th>
       <th><!--Service Name-->Claude</th>
       <th><!--Plan/ Model--></th>
+      <th><!--Service Type-->SaaS</th>
       <th><!--Service Provider--></th>
       <th><!--Model Procider--></th>
       <th><!--Term of Use--></th>
@@ -417,9 +438,9 @@
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Type--></th>
       <th><!--Service Name-->Claude Pro</th>
       <th><!--Plan/ Model--></th>
+      <th><!--Service Type-->SaaS</th>
       <th><!--Service Provider--></th>
       <th><!--Model Procider--></th>
       <th><!--Term of Use--></th>
@@ -438,9 +459,9 @@
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Type--></th>
       <th><!--Service Name-->Claude Team</th>
       <th><!--Plan/ Model--></th>
+      <th><!--Service Type-->SaaS</th>
       <th><!--Service Provider--></th>
       <th><!--Model Procider--></th>
       <th><!--Term of Use--></th>
@@ -459,9 +480,9 @@
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Type--></th>
       <th><!--Service Name-->Claude API</th>
       <th><!--Plan/ Model--></th>
+      <th><!--Service Type-->API</th>
       <th><!--Service Provider--></th>
       <th><!--Model Procider--></th>
       <th><!--Term of Use--></th>
@@ -480,9 +501,9 @@
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Type--></th>
       <th><!--Service Name-->Amazon Bedrock</th>
-      <th><!--Plan/ Model--></th>
+      <th><!--Plan/ Model-->Claude Series</th>
+      <th><!--Service Type-->API</th>
       <th><!--Service Provider--></th>
       <th><!--Model Procider--></th>
       <th><!--Term of Use--></th>
@@ -501,9 +522,9 @@
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Type--></th>
-      <th><!--Service Name-->Bedrock (Taitan)</th>
-      <th><!--Plan/ Model--></th>
+      <th><!--Service Name-->Bedrock</th>
+      <th><!--Plan/ Model-->Taitan Series</th>
+      <th><!--Service Type-->SaaS</th>
       <th><!--Service Provider--></th>
       <th><!--Model Procider--></th>
       <th><!--Term of Use--></th>
@@ -522,9 +543,9 @@
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Type--></th>
       <th><!--Service Name-->Notion AI</th>
       <th><!--Plan/ Model--></th>
+      <th><!--Service Type--></th>
       <th><!--Service Provider--></th>
       <th><!--Model Procider--></th>
       <th><!--Term of Use--></th>
@@ -543,9 +564,9 @@
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Type--></th>
       <th><!--Service Name-->Box AI</th>
       <th><!--Plan/ Model--></th>
+      <th><!--Service Type--></th>
       <th><!--Service Provider--></th>
       <th><!--Model Procider--></th>
       <th><!--Term of Use--></th>
@@ -564,9 +585,9 @@
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Type--></th>
       <th><!--Service Name-->Slack AI</th>
       <th><!--Plan/ Model--></th>
+      <th><!--Service Type--></th>
       <th><!--Service Provider--></th>
       <th><!--Model Procider--></th>
       <th><!--Term of Use--></th>
@@ -586,4 +607,4 @@
  </table>
 </div>
 
-*1:<a href="https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/abuse-monitoring#:~:text=Azure%20OpenAI%20Limited%20Access%20Review%3A%20Modified%20Abuse%20Monitoring">オプトアウト申請</a>が承認されれば、データは保持されない。
+*1. <a href="https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/abuse-monitoring#:~:text=Azure%20OpenAI%20Limited%20Access%20Review%3A%20Modified%20Abuse%20Monitoring">オプトアウト申請</a>が承認されれば、データは保持されない。
