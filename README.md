@@ -69,7 +69,7 @@
       <th><!--データ保持--><a href="https://openai.com/ja-JP/policies/terms-of-use/">30日</a></th>
       <th><!--リージョン--><a href="https://openai.com/ja-JP/policies/terms-of-use/">US</a></th>
       <th><!--日本リージョン有無--><a href="https://openai.com/ja-JP/policies/terms-of-use/">なし</a></th>
-      <th><!--準拠法--><a href="https://openai.com/ja-JP/policies/terms-of-use/">カリフォルニア州法</a></th>
+      <th><!--準拠法-->同上</th>
       <th><!--管轄裁判所-->同上</th>
       <th><!--ISO27001--><a href="https://openai.com/policies/supplier-security-measures/">Yes</a></th>
       <th><!--SOC2-->NO</th>
@@ -90,7 +90,7 @@
       <th><!--データ保持--><a href="https://openai.com/policies/business-terms/">30日</a></th>
       <th><!--リージョン--><a href="https://openai.com/policies/business-terms/">US</a></th>
       <th><!--日本リージョン有無--><a href="https://openai.com/ja-JP/policies/terms-of-use/">なし</a></th>
-      <th><!--準拠法--><a href="https://openai.com/policies/business-terms/">カリフォルニア州法</a></th>
+      <th><!--準拠法-->同上</th>
       <th><!--管轄裁判所-->同上</th>
       <th><!--ISO27001--><a href="https://openai.com/policies/supplier-security-measures/">Yes</a></th>
       <th><!--SOC2--><a href="https://trust.openai.com/">Type2</a></th>
@@ -111,7 +111,7 @@
       <th><!--データ保持--><a href="https://openai.com/policies/business-terms/">30日</a></th>
       <th><!--リージョン--><a href="https://openai.com/policies/business-terms/">US</a></th>
       <th><!--日本リージョン有無--><a href="https://openai.com/ja-JP/policies/terms-of-use/">なし</a></th>
-      <th><!--準拠法--><a href="https://openai.com/policies/business-terms/">カリフォルニア州法</a></th>
+      <th><!--準拠法-->同上</th>
       <th><!--管轄裁判所-->同上</th>
       <th><!--ISO27001--><a href="https://openai.com/policies/supplier-security-measures/">Yes</a></th>
       <th><!--SOC2--><a href="https://trust.openai.com/">Type2</a></th>
@@ -119,7 +119,7 @@
       <th><!--NOTE--></th>
      </tr>
    </tbody>
-      　　<tbody>
+   <tbody>
      <tr>
       <th><!--Service Type-->API</th>
       <th><!--Service Name--><a href="https://openai.com/index/openai-api/">OpenAI API</a></th>
