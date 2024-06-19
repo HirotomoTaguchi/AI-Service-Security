@@ -10,7 +10,7 @@
 ## 免責事項
 - 本資料は2024年6月時点の情報に基づくものであり、その正確性を保証するものではありません。
 - 各社のサービス内容は頻繁に変更されるため、最新の情報は必ず公式サイトなどでご確認ください。
-- 適用される規約や法令については、日本国内で一般的に利用する形を想定して記載しております。当然、企業間契約においては別の規約が適用される可能性がありますので、必ず自社の締結している契約をご確認ください。
+- 適用される規約や法令については、お住まいの国または地域 (企業の場合は主たる業務地) が日本である前提で記載をしております。当然、企業間契約においては別の規約が適用される可能性がありますので、必ず自社の締結している契約をご確認ください。
 - 本資料の利用によって生じたいかなる損害についても、著者は一切の責任を負いかねます。
 
 ## まとめ
@@ -197,8 +197,8 @@
       <th><!--データ保持--><a href=“https://learn.microsoft.com/ja-jp/copilot/privacy-and-protections#chat-history-and-reporting”>しない</a></th>
       <th><!--リージョン--><a href=“https://learn.microsoft.com/ja-jp/copilot/privacy-and-protections#microsoft-as-the-data-controller”>不明(Copilot グローバルデータセンターを利用)</a></th>
       <th><!--日本リージョン有無--><a href=“https://learn.microsoft.com/ja-jp/copilot/privacy-and-protections#microsoft-as-the-data-controller”>不明</a></th>
-      <th><!--準拠法--></th>
-      <th><!--管轄裁判所--></th>
+      <th><!--準拠法--><a href=“https://www.microsoft.com/ja-jp/servicesagreement/”>日本法</a></th>
+      <th><!--管轄裁判所--><a href=“https://www.microsoft.com/ja-jp/servicesagreement/”></a>東京地方裁判所</th></th>
       <th><!--ISO27001--></th>
       <th><!--SOC2--></th>
       <th><!--ISMAP--></th>
@@ -207,9 +207,9 @@
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Name-->Microsoft Copilot(無料版)</th>
-      <th><!--Plan/ Model--></th>
-      <th><!--Service Type--></th>
+      <th><!--Service Name-->Microsoft Copilot(Free)</th>
+      <th><!--Plan/ Model-->-</th>
+      <th><!--Service Type-->SaaS</th>
       <th><!--Service Provider--></th>
       <th><!--Model Procider--></th>
       <th><!--Term of Use--></th>
@@ -235,7 +235,7 @@
       <th><!--Model Procider--></th>
       <th><!--Term of Use--></th>
       <th><!--Privacy Policy--></th>
-      <th><!--学習への利用--><a href=“https://github.com/features/copilot#pricing”>既定でする</a></th>
+      <th><!--学習への利用--><a href=“https://github.com/features/copilot#pricing”>する</a></th>
       <th><!--データ保持--></th>
       <th><!--リージョン--></th>
       <th><!--日本リージョン有無--></th>
@@ -256,7 +256,7 @@
       <th><!--Model Procider--></th>
       <th><!--Term of Use--></th>
       <th><!--Privacy Policy--></th>
-      <th><!--学習への利用--><a href=“https://github.com/features/copilot#pricing”>既定でする</a></th>
+      <th><!--学習への利用--><a href=“https://github.com/features/copilot#pricing”>しない</a></th>
       <th><!--データ保持--></th>
       <th><!--リージョン--></th>
       <th><!--日本リージョン有無--></th>
