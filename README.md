@@ -204,12 +204,12 @@
       <th><!--Privacy Policy--><a href="https://privacy.microsoft.com/ja-jp/"></a>URL</th>
       <th><!--学習への利用--><a href=“https://learn.microsoft.com/ja-jp/copilot/privacy-and-protections#chat-history-and-reporting”>しない</a></th>
       <th><!--データ保持--><a href=“https://learn.microsoft.com/ja-jp/copilot/privacy-and-protections#chat-history-and-reporting”>しない</a></th>
-      <th><!--リージョン--><a href=“https://learn.microsoft.com/ja-jp/copilot/privacy-and-protections#microsoft-as-the-data-controller”>不明(Copilot グローバルデータセンターを利用)</a></th>
+      <th><!--リージョン--><a href=“https://learn.microsoft.com/ja-jp/copilot/privacy-and-protections#microsoft-as-the-data-controller”>グローバルデータセンター</a></th>
       <th><!--日本リージョン有無--><a href=“https://learn.microsoft.com/ja-jp/copilot/privacy-and-protections#microsoft-as-the-data-controller”>不明</a></th>
       <th><!--準拠法--><a href=“”>日本法</a></th>
       <th><!--管轄裁判所--><a href=“”>東京地方裁判所</a></th></th>
-      <th><!--ISO27001--></th>
-      <th><!--SOC2--></th>
+      <th><!--ISO27001--調査中></th>
+      <th><!--SOC2-->調査中</th>
       <th><!--ISMAP-->NO</th>
       <th><!--NOTE-->旧：Bing Search Enterprise </th>
      </tr>
@@ -247,7 +247,7 @@
       <th><!--Term of Use--><a href=“https://github.com/customer-terms/”>URL</a></th>
       <th><!--Privacy Policy--><a href=“https://docs.github.com/en/site-policy/privacy-policies”>URL</a></th>
       <th><!--学習への利用--><a href=“https://github.com/features/copilot#pricing”>する</a></th>
-      <th><!--データ保持--><a href=“https://github.com/features/copilot”></a>スレッド履歴を使用して応答するために一部データを一定期間保持</th>
+      <th><!--データ保持--><a href=“https://github.com/features/copilot”>スレッド履歴を使用して応答するために一部データを一定期間保持</a></th>
       <th><!--リージョン--><a href=“”></a></th>
       <th><!--日本リージョン有無--><a href=“”></a></th>
       <th><!--準拠法--><a href=“https://assets.ctfassets.net/8aevphvgewt8/1LvHh4fsBKJ14bXfVfD9VW/78731fab3753750aa90dd1cad7dddfab/GitHub.General.Terms_20220121_locked.pdf”></a>カリフォルニア州法および米国連邦法</th>
@@ -269,7 +269,7 @@
       <th><!--Term of Use--><a href=“https://github.com/customer-terms/”>URL</a></th>
       <th><!--Privacy Policy--><a href=“https://docs.github.com/en/site-policy/privacy-policies”>URL</a></th>
       <th><!--学習への利用--><a href=“https://github.com/features/copilot#pricing”>しない</a></th>
-      <th><!--データ保持--><a href=“https://github.com/features/copilot”></a>スレッド履歴を使用して応答するために一部データを一定期間保持</th>
+      <th><!--データ保持-->同上</th>
       <th><!--リージョン--></th>
       <th><!--日本リージョン有無--></th>
       <th><!--準拠法--><a href=“https://assets.ctfassets.net/8aevphvgewt8/1LvHh4fsBKJ14bXfVfD9VW/78731fab3753750aa90dd1cad7dddfab/GitHub.General.Terms_20220121_locked.pdf”></a>カリフォルニア州法および米国連邦法</th>
@@ -291,7 +291,7 @@
       <th><!--Term of Use--><a href=“https://github.com/customer-terms/”>URL</a></th>
       <th><!--Privacy Policy--><a href=“https://docs.github.com/en/site-policy/privacy-policies”>URL</a></th>
       <th><!--学習への利用--><a href=“https://github.com/features/copilot#pricing”>しない</a></th>
-      <th><!--データ保持--><a href=“https://github.com/features/copilot”></a>スレッド履歴を使用して応答するために一部データを一定期間保持</th>
+      <th><!--データ保持-->同上</th>
       <th><!--リージョン--></th>
       <th><!--日本リージョン有無--></th>
       <th><!--準拠法--><a href=“https://assets.ctfassets.net/8aevphvgewt8/1LvHh4fsBKJ14bXfVfD9VW/78731fab3753750aa90dd1cad7dddfab/GitHub.General.Terms_20220121_locked.pdf”></a>カリフォルニア州法および米国連邦法</th>
@@ -305,10 +305,10 @@
    <tbody>
      <tr>
       <th><!--Service Name-->Google Gemini</th>
-      <th><!--Plan/ Model--></th>
+      <th><!--Plan/ Model-->Free</th>
       <th><!--Service Type-->SaaS</th>
       <th><!--Terget-->個人</th>
-      <th><!--Service Provider--></th>
+      <th><!--Service Provider-->Google</th>
       <th><!--Model Procider--></th>
       <th><!--Term of Use--></th>
       <th><!--Privacy Policy--></th>
