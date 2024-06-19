@@ -159,7 +159,7 @@
       <th><!--Term of Use--><a href="https://www.microsoft.com/licensing/docs/customeragreement">URL</a></th>
       <th><!--Privacy Policy--><a href="https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy">URL</a></th>
       <th><!--学習への利用--><a href="https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy">しない</a></th>
-      <th><!--データ保持--><a href="https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy">30日</a>　[^1]</th>
+      <th><!--データ保持--><a href="https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy">30日</a><td>30日*<br><small>*オプトアウト申請が承認されれば、データは保持されない。</small></td></th>
       <th><!--リージョン--><a href="https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/models#standard-deployment-model-availability">世界各地</a></th>
       <th><!--日本リージョン有無--><a href="https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/models#standard-deployment-model-availability">あり</a></th>
       <th><!--準拠法--><a href="https://www.microsoft.com/licensing/docs/customeragreement">日本法</a></th>
