@@ -657,8 +657,8 @@
    <tbody>
      <tr>
       <th><!--Service Name-->Slack AI</th>
-      <th><!--Plan/ Model-->調査中</th>
-      <th><!--Service Type-->調査中</th>
+      <th><!--Plan/ Model-->モデル非公開</th>
+      <th><!--Service Type-->SaaS</th>
       <th><!--Terget-->法人</th>
       <th><!--Service Provider-->調査中</th>
       <th><!--Model Procider-->調査中</th>
