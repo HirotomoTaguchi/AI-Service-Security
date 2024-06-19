@@ -238,8 +238,8 @@
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Name-->Github Copilot</th>
-      <th><!--Plan/ Model-->Individual　Plan</th>
+      <th><!--Service Name--><a href="https://docs.github.com/ja/copilot">Github Copilot</a></th>
+      <th><!--Plan/ Model-->Individual Plan</th>
       <th><!--Service Type-->SaaS</th>
       <th><!--Terget-->個人</th>
       <th><!--Service Provider--><a href="https://github.co.jp/about.html">GitHub, Inc.</a></th>
@@ -260,43 +260,43 @@
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Name-->Github Copilot</th>
+      <th><!--Service Name--><a href="https://docs.github.com/ja/copilot">Github Copilot</a></th>
       <th><!--Plan/ Model-->Business Plan</th>
       <th><!--Service Type-->SaaS</th>
       <th><!--Terget-->法人</th>
-      <th><!--Service Provider--><a href=“https://github.co.jp/about.html”>GitHub, Inc.</a></th>
-      <th><!--Model Procider--><a href=“https://github.com/features/copilot”></a>GitHub,OpenAI,Microsoft</th>
-      <th><!--Term of Use--><a href=“https://github.com/customer-terms/”>URL</a></th>
-      <th><!--Privacy Policy--><a href=“https://docs.github.com/en/site-policy/privacy-policies”>URL</a></th>
-      <th><!--学習への利用--><a href=“https://github.com/features/copilot#pricing”>しない</a></th>
+      <th><!--Service Provider--><a href="https://github.co.jp/about.html">GitHub, Inc.</a></th>
+      <th><!--Model Procider--><a href="https://github.com/features/copilot"></a>GitHub,OpenAI,Microsoft</th>
+      <th><!--Term of Use--><a href="https://github.com/customer-terms/">URL</a></th>
+      <th><!--Privacy Policy--><a href="https://docs.github.com/en/site-policy/privacy-policies">URL</a></th>
+      <th><!--学習への利用--><a href="https://github.com/features/copilot#pricing">しない</a></th>
       <th><!--データ保持-->同上</th>
       <th><!--リージョン--><!--Privacy Policy--><a href=“”></a>調査中</th>
       <th><!--日本リージョン有無--><!--Privacy Policy--><a href=“”></a>調査中</th>
-      <th><!--準拠法--><a href=“https://assets.ctfassets.net/8aevphvgewt8/1LvHh4fsBKJ14bXfVfD9VW/78731fab3753750aa90dd1cad7dddfab/GitHub.General.Terms_20220121_locked.pdf”></a>カリフォルニア州法および米国連邦法</th>
-      <th><!--管轄裁判所--><a href=“https://assets.ctfassets.net/8aevphvgewt8/1LvHh4fsBKJ14bXfVfD9VW/78731fab3753750aa90dd1cad7dddfab/GitHub.General.Terms_20220121_locked.pdf”>カリフォルニア州北部地区連邦地方裁判所または州裁判所</a></th>
-      <th><!--ISO27001--><a href=“https://resources.github.com/copilot-trust-center/”>YES</a></th>
-      <th><!--SOC2--><a href=“https://resources.github.com/copilot-trust-center/”>Type1</a></th>
+      <th><!--準拠法--><a href="https://assets.ctfassets.net/8aevphvgewt8/1LvHh4fsBKJ14bXfVfD9VW/78731fab3753750aa90dd1cad7dddfab/GitHub.General.Terms_20220121_locked.pdf"></a>カリフォルニア州法および米国連邦法</th>
+      <th><!--管轄裁判所--><a href="https://assets.ctfassets.net/8aevphvgewt8/1LvHh4fsBKJ14bXfVfD9VW/78731fab3753750aa90dd1cad7dddfab/GitHub.General.Terms_20220121_locked.pdf">カリフォルニア州北部地区連邦地方裁判所または州裁判所</a></th>
+      <th><!--ISO27001--><a href="https://resources.github.com/copilot-trust-center/">YES</a></th>
+      <th><!--SOC2--><a href="https://resources.github.com/copilot-trust-center/">Type1</a></th>
       <th><!--ISMAP-->NO</th>
       <th><!--NOTE--></th>
      </tr>
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Name-->Github Copilot</th>
-      <th><!--Plan/ Model-->Enterprise　Plan</th>
+      <th><!--Service Name--><a href="https://docs.github.com/ja/copilot">Github Copilot</a></th>
+      <th><!--Plan/ Model-->Enterprise Plan</th>
       <th><!--Service Type-->SaaS</th>
       <th><!--Terget-->法人</th>
-      <th><!--Service Provider--><a href=“https://github.co.jp/about.html”>GitHub, Inc.</a></th>
-      <th><!--Model Procider--><a href=“https://github.com/features/copilot”></a>GitHub,OpenAI,Microsoft</th>
-      <th><!--Term of Use--><a href=“https://github.com/customer-terms/”>URL</a></th>
-      <th><!--Privacy Policy--><a href=“https://docs.github.com/en/site-policy/privacy-policies”>URL</a></th>
-      <th><!--学習への利用--><a href=“https://github.com/features/copilot#pricing”>しない</a></th>
+      <th><!--Service Provider--><a href="https://github.co.jp/about.html">GitHub, Inc.</a></th>
+      <th><!--Model Procider--><a href="https://github.com/features/copilot"></a>GitHub,OpenAI,Microsoft</th>
+      <th><!--Term of Use--><a href="https://github.com/customer-terms/">URL</a></th>
+      <th><!--Privacy Policy--><a href="https://docs.github.com/en/site-policy/privacy-policies">URL</a></th>
+      <th><!--学習への利用--><a href="https://github.com/features/copilot#pricing">しない</a></th>
       <th><!--データ保持-->同上</th>
-      <th><!--リージョン--><!--Privacy Policy--><a href=“”></a>調査中</th>
-      <th><!--日本リージョン有無--><!--Privacy Policy--><a href=“”></a>調査中</th>
-      <th><!--準拠法--><a href=“https://assets.ctfassets.net/8aevphvgewt8/1LvHh4fsBKJ14bXfVfD9VW/78731fab3753750aa90dd1cad7dddfab/GitHub.General.Terms_20220121_locked.pdf”></a>カリフォルニア州法および米国連邦法</th>
-      <th><!--管轄裁判所--><a href=“https://assets.ctfassets.net/8aevphvgewt8/1LvHh4fsBKJ14bXfVfD9VW/78731fab3753750aa90dd1cad7dddfab/GitHub.General.Terms_20220121_locked.pdf”>カリフォルニア州北部地区連邦地方裁判所または州裁判所</a></th>
-      <th><!--ISO27001--><a href=“https://resources.github.com/copilot-trust-center/”>YES</a></th>
+      <th><!--リージョン--><!--Privacy Policy--><a href=""></a>調査中</th>
+      <th><!--日本リージョン有無--><!--Privacy Policy--><a href=""></a>調査中</th>
+      <th><!--準拠法--><a href="https://assets.ctfassets.net/8aevphvgewt8/1LvHh4fsBKJ14bXfVfD9VW/78731fab3753750aa90dd1cad7dddfab/GitHub.General.Terms_20220121_locked.pdf"></a>カリフォルニア州法および米国連邦法</th>
+      <th><!--管轄裁判所--><a href="https://assets.ctfassets.net/8aevphvgewt8/1LvHh4fsBKJ14bXfVfD9VW/78731fab3753750aa90dd1cad7dddfab/GitHub.General.Terms_20220121_locked.pdf">カリフォルニア州北部地区連邦地方裁判所または州裁判所</a></th>
+      <th><!--ISO27001--><a href="https://resources.github.com/copilot-trust-center/">YES</a></th>
       <th><!--SOC2-->NO</th>
       <th><!--ISMAP-->NO</th>
       <th><!--NOTE--></th>
@@ -304,23 +304,23 @@
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Name--><a href=“https://gemini.google.com/”>Google Gemini</a></th>
+      <th><!--Service Name--><a href="https://gemini.google.com/">Google Gemini</a></th>
       <th><!--Plan/ Model-->Free</th>
       <th><!--Service Type-->SaaS</th>
       <th><!--Terget-->個人</th>
-      <th><!--Service Provider--><a href=“”></a>Google</th>
-      <th><!--Model Procider--><a href=“”></a>Google</th>
-      <th><!--Term of Use--><a href=“https://workspace.google.com/terms/premier_terms/?sjid=15432536244888463008-AP”>URL</a></th>
-      <th><!--Privacy Policy--><a href=“https://support.google.com/gemini/answer/13594961?hl=en&visit_id=638445236399578564-3759371208&rd=1#collected_data”>URL</a></th>
-      <th><!--学習への利用--><a href=“https://support.google.com/gemini/answer/13594961?hl=en&visit_id=638445236399578564-3759371208&rd=1#collected_data”>される</a></th>
-      <th><!--データ保持--><a href=“https://support.google.com/gemini/answer/13594961?hl=en&visit_id=638445236399578564-3759371208&rd=1#collected_data&zippy=%2Cwho-has-access-to-my-gemini-apps-conversations”></a>0日-36ヶ月</th>
-      <th><!--リージョン--><a href=“”></a>調査中</th>
-      <th><!--日本リージョン有無--><a href=“”></a>調査中</th>
-      <th><!--準拠法--><a href=“https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=18f05f3cc3d7a11045724a3599013176”>日本国法</a></th>
-      <th><!--管轄裁判所--><a href=“https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=18f05f3cc3d7a11045724a3599013176”>東京地方裁判所</a></th>
-      <th><!--ISO27001--><a href=“”></a>調査中</th>
-      <th><!--SOC2--><a href=“”></a>調査中</th>
-      <th><!--ISMAP--><a href=“”></a>調査中</th>
+      <th><!--Service Provider--><a href=""></a>Google</th>
+      <th><!--Model Procider--><a href=""></a>Google</th>
+      <th><!--Term of Use--><a href="https://workspace.google.com/terms/premier_terms/?sjid=15432536244888463008-AP">URL</a></th>
+      <th><!--Privacy Policy--><a href="https://support.google.com/gemini/answer/13594961?hl=en&visit_id=638445236399578564-3759371208&rd=1#collected_data">URL</a></th>
+      <th><!--学習への利用--><a href="https://support.google.com/gemini/answer/13594961?hl=en&visit_id=638445236399578564-3759371208&rd=1#collected_data">される</a></th>
+      <th><!--データ保持--><a href="https://support.google.com/gemini/answer/13594961?hl=en&visit_id=638445236399578564-3759371208&rd=1#collected_data&zippy=%2Cwho-has-access-to-my-gemini-apps-conversations"></a>0日-36ヶ月</th>
+      <th><!--リージョン--><a href=""></a>調査中</th>
+      <th><!--日本リージョン有無--><a href=""></a>調査中</th>
+      <th><!--準拠法--><a href="https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=18f05f3cc3d7a11045724a3599013176">日本国法</a></th>
+      <th><!--管轄裁判所--><a href="https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=18f05f3cc3d7a11045724a3599013176">東京地方裁判所</a></th>
+      <th><!--ISO27001--><a href=""></a>調査中</th>
+      <th><!--SOC2--><a href=""></a>調査中</th>
+      <th><!--ISMAP--><a href=""></a>調査中</th>
       <th><!--NOTE--></th>      
      </tr>
    </tbody>
