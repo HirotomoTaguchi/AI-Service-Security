@@ -248,8 +248,8 @@
       <th><!--Privacy Policy--><a href=“https://docs.github.com/en/site-policy/privacy-policies”>URL</a></th>
       <th><!--学習への利用--><a href=“https://github.com/features/copilot#pricing”>する</a></th>
       <th><!--データ保持--><a href=“https://github.com/features/copilot”>スレッド履歴を使用して応答するために一部データを一定期間保持</a></th>
-      <th><!--リージョン--><a href=“”></a></th>
-      <th><!--日本リージョン有無--><a href=“”></a></th>
+      <th><!--リージョン--><!--Privacy Policy--><a href=“”></a>調査中</th>
+      <th><!--日本リージョン有無--><!--Privacy Policy--><a href=“”></a>調査中</th>
       <th><!--準拠法--><a href=“https://assets.ctfassets.net/8aevphvgewt8/1LvHh4fsBKJ14bXfVfD9VW/78731fab3753750aa90dd1cad7dddfab/GitHub.General.Terms_20220121_locked.pdf”></a>カリフォルニア州法および米国連邦法</th>
       <th><!--管轄裁判所--><a href=“https://assets.ctfassets.net/8aevphvgewt8/1LvHh4fsBKJ14bXfVfD9VW/78731fab3753750aa90dd1cad7dddfab/GitHub.General.Terms_20220121_locked.pdf”>カリフォルニア州北部地区連邦地方裁判所または州裁判所</a></th>
       <th><!--ISO27001--><a href=“https://resources.github.com/copilot-trust-center/”>NO</a></th>
@@ -270,8 +270,8 @@
       <th><!--Privacy Policy--><a href=“https://docs.github.com/en/site-policy/privacy-policies”>URL</a></th>
       <th><!--学習への利用--><a href=“https://github.com/features/copilot#pricing”>しない</a></th>
       <th><!--データ保持-->同上</th>
-      <th><!--リージョン--></th>
-      <th><!--日本リージョン有無--></th>
+      <th><!--リージョン--><!--Privacy Policy--><a href=“”></a>調査中</th>
+      <th><!--日本リージョン有無--><!--Privacy Policy--><a href=“”></a>調査中</th>
       <th><!--準拠法--><a href=“https://assets.ctfassets.net/8aevphvgewt8/1LvHh4fsBKJ14bXfVfD9VW/78731fab3753750aa90dd1cad7dddfab/GitHub.General.Terms_20220121_locked.pdf”></a>カリフォルニア州法および米国連邦法</th>
       <th><!--管轄裁判所--><a href=“https://assets.ctfassets.net/8aevphvgewt8/1LvHh4fsBKJ14bXfVfD9VW/78731fab3753750aa90dd1cad7dddfab/GitHub.General.Terms_20220121_locked.pdf”>カリフォルニア州北部地区連邦地方裁判所または州裁判所</a></th>
       <th><!--ISO27001--><a href=“https://resources.github.com/copilot-trust-center/”>YES</a></th>
@@ -292,8 +292,8 @@
       <th><!--Privacy Policy--><a href=“https://docs.github.com/en/site-policy/privacy-policies”>URL</a></th>
       <th><!--学習への利用--><a href=“https://github.com/features/copilot#pricing”>しない</a></th>
       <th><!--データ保持-->同上</th>
-      <th><!--リージョン--></th>
-      <th><!--日本リージョン有無--></th>
+      <th><!--リージョン--><!--Privacy Policy--><a href=“”></a>調査中</th>
+      <th><!--日本リージョン有無--><!--Privacy Policy--><a href=“”></a>調査中</th>
       <th><!--準拠法--><a href=“https://assets.ctfassets.net/8aevphvgewt8/1LvHh4fsBKJ14bXfVfD9VW/78731fab3753750aa90dd1cad7dddfab/GitHub.General.Terms_20220121_locked.pdf”></a>カリフォルニア州法および米国連邦法</th>
       <th><!--管轄裁判所--><a href=“https://assets.ctfassets.net/8aevphvgewt8/1LvHh4fsBKJ14bXfVfD9VW/78731fab3753750aa90dd1cad7dddfab/GitHub.General.Terms_20220121_locked.pdf”>カリフォルニア州北部地区連邦地方裁判所または州裁判所</a></th>
       <th><!--ISO27001--><a href=“https://resources.github.com/copilot-trust-center/”>YES</a></th>
@@ -357,7 +357,7 @@
       <th><!--Term of Use--><a href=“https://workspace.google.com/terms/premier_terms/?sjid=15432536244888463008-AP”>URL</a></th>
       <th><!--Privacy Policy--><a href=“https://workspace.google.com/blog/ja/identity-and-security/protecting-your-data-era-generative-ai?hl=ja”>URL</a></th>
       <th><!--学習への利用--><a href=“https://workspace.google.com/blog/ja/identity-and-security/protecting-your-data-era-generative-ai?hl=ja”></a>しない</th>
-      <th><!--データ保持--><a href=“”></a></th>
+      <th><!--データ保持--><a href=“”></a>調査中</th>
       <th><!--リージョン--><a href=“https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=18f05f3cc3d7a11045724a3599013176”>世界各国</a></th>
       <th><!--日本リージョン有無--><a href=“https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=18f05f3cc3d7a11045724a3599013176”>存在するが選択不可</a></th>
       <th><!--準拠法--><a href=“https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=18f05f3cc3d7a11045724a3599013176”>日本国法</a></th>
@@ -379,7 +379,7 @@
       <th><!--Term of Use--><a href=“https://workspace.google.com/terms/premier_terms/?sjid=15432536244888463008-AP”>URL</a></th>
       <th><!--Privacy Policy--><a href=“https://workspace.google.com/blog/ja/identity-and-security/protecting-your-data-era-generative-ai?hl=ja”>URL</a></th>
       <th><!--学習への利用--><a href=“https://workspace.google.com/blog/ja/identity-and-security/protecting-your-data-era-generative-ai?hl=ja”></a>しない</th>
-      <th><!--データ保持--><a href=“”></a></th>
+      <th><!--データ保持--><a href=“”></a>調査中</th>
       <th><!--リージョン--><a href=“https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=18f05f3cc3d7a11045724a3599013176”>世界各国</a></th>
       <th><!--日本リージョン有無--><a href=“https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=18f05f3cc3d7a11045724a3599013176”>存在するが選択不可</a></th>
       <th><!--準拠法--><a href=“https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=18f05f3cc3d7a11045724a3599013176”>日本国法</a></th>
@@ -401,14 +401,14 @@
       <th><!--Term of Use--><a href=“https://ai.google.dev/gemini-api/terms”>URL</a></th>
       <th><!--Privacy Policy--><a href=“https://ai.google.dev/gemini-api/terms”>URL</a></th>
       <th><!--学習への利用--><a href=“https://ai.google.dev/gemini-api/terms”>する</a></th>
-      <th><!--データ保持--><a href=“”></a></th>
-      <th><!--リージョン--><a href=“”></a></th>
-      <th><!--日本リージョン有無--><a href=“”></a></th>
-      <th><!--準拠法--><a href=“”></a></th>
-      <th><!--管轄裁判所--><a href=“”></a></th>
-      <th><!--ISO27001--><a href=“”></a></th>
-      <th><!--SOC2--><a href=“”></a></th>
-      <th><!--ISMAP--><a href=“”></a></th>
+      <th><!--データ保持--><!--Privacy Policy--><a href=“”></a>調査中</th>
+      <th><!--リージョン--><a href=“”></a>調査中</th>
+      <th><!--日本リージョン有無--><a href=“”></a>調査中</th>
+      <th><!--準拠法--><a href=“”></a>調査中</th>
+      <th><!--管轄裁判所--><a href=“”></a>調査中</th>
+      <th><!--ISO27001--><a href=“”></a>調査中</th>
+      <th><!--SOC2--><a href=“”></a>調査中</th>
+      <th><!--ISMAP--><a href=“”></a>調査中</th>
       <th><!--NOTE--></th>
      </tr>
    </tbody>
