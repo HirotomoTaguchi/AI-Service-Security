@@ -28,12 +28,12 @@
        <th>Privacy Policy</th>
        <th>AI_Model_Training_by_default (既定での学習利用)</th>
        <th>Data_Retention (データ保持)</th>
-       <th>Region</th>
+       <th>Data_Center_Region</th>
        <th>Japan_Region</th>
        <th>Governing_Law (準拠法)</th>
        <th>Competent_Court (管轄裁判所)</th>
-       <th>ISO27001</th>
-       <th>SOC2</th>
+       <th>ISO_27001</th>
+       <th>SOC_2</th>
        <th>ISMAP</th>
        <th>Other_noteworthy_items</th>
      </tr>
