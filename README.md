@@ -208,7 +208,7 @@
       <th><!--日本リージョン有無--><a href=“https://learn.microsoft.com/ja-jp/copilot/privacy-and-protections#microsoft-as-the-data-controller”>不明</a></th>
       <th><!--準拠法--><a href=“”>日本法</a></th>
       <th><!--管轄裁判所--><a href=“”>東京地方裁判所</a></th></th>
-      <th><!--ISO27001--調査中></th>
+      <th><!--ISO27001-->調査中</th>
       <th><!--SOC2-->調査中</th>
       <th><!--ISMAP-->NO</th>
       <th><!--NOTE-->旧：Bing Search Enterprise </th>
@@ -304,89 +304,89 @@
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Name-->Google Gemini</th>
+      <th><!--Service Name--><a href=“https://gemini.google.com/”>Google Gemini</a>Google Gemini</th>
       <th><!--Plan/ Model-->Free</th>
       <th><!--Service Type-->SaaS</th>
       <th><!--Terget-->個人</th>
-      <th><!--Service Provider-->Google</th>
-      <th><!--Model Procider--></th>
-      <th><!--Term of Use--></th>
-      <th><!--Privacy Policy--></th>
-      <th><!--学習への利用--></th>
-      <th><!--データ保持--></th>
-      <th><!--リージョン--></th>
-      <th><!--日本リージョン有無--></th>
-      <th><!--準拠法--></th>
-      <th><!--管轄裁判所--></th>
-      <th><!--ISO27001--></th>
-      <th><!--SOC2--></th>
-      <th><!--ISMAP--></th>
+      <th><!--Service Provider--><a href=“”></a>Google</th>
+      <th><!--Model Procider--><a href=“”></a>Google</th>
+      <th><!--Term of Use--><a href=“https://workspace.google.com/terms/premier_terms/?sjid=15432536244888463008-AP”>URL</a></th>
+      <th><!--Privacy Policy--><a href=“https://support.google.com/gemini/answer/13594961?hl=en&visit_id=638445236399578564-3759371208&rd=1#collected_data”>URL</a></th>
+      <th><!--学習への利用--><a href=“https://support.google.com/gemini/answer/13594961?hl=en&visit_id=638445236399578564-3759371208&rd=1#collected_data”>される</a></th>
+      <th><!--データ保持--><a href=“https://support.google.com/gemini/answer/13594961?hl=en&visit_id=638445236399578564-3759371208&rd=1#collected_data&zippy=%2Cwho-has-access-to-my-gemini-apps-conversations”></a>0日-36ヶ月</th>
+      <th><!--リージョン--><a href=“”></a>調査中</th>
+      <th><!--日本リージョン有無--><a href=“”></a>調査中</th>
+      <th><!--準拠法--><a href=“https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=18f05f3cc3d7a11045724a3599013176”>日本国法</a></th>
+      <th><!--管轄裁判所--><a href=“https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=18f05f3cc3d7a11045724a3599013176”>東京地方裁判所</a></th>
+      <th><!--ISO27001--><a href=“”></a>調査中</th>
+      <th><!--SOC2--><a href=“”></a>調査中</th>
+      <th><!--ISMAP--><a href=“”></a>調査中</th>
       <th><!--NOTE--></th>      
      </tr>
    </tbody>
   　　<tbody>
      <tr>
-      <th><!--Service Name-->Gemini Advanced</th>
-      <th><!--Plan/ Model--></th>
+      <th><!--Service Name-->Google Gemini</th>
+      <th><!--Plan/ Model--><a href=“https://gemini.google.com/advanced”>Advanced Plan</a></th>
       <th><!--Service Type-->SaaS</th>
       <th><!--Terget-->個人</th>
-      <th><!--Service Provider--></th>
-      <th><!--Model Procider--></th>
-      <th><!--Term of Use--></th>
-      <th><!--Privacy Policy--></th>
-      <th><!--学習への利用--></th>
-      <th><!--データ保持--></th>
-      <th><!--リージョン--></th>
-      <th><!--日本リージョン有無--></th>
-      <th><!--準拠法--></th>
-      <th><!--管轄裁判所--></th>
-      <th><!--ISO27001--></th>
-      <th><!--SOC2--></th>
-      <th><!--ISMAP--></th>
+      <th><!--Service Provider--><a href=“”></a>Google</th>
+      <th><!--Model Procider--><a href=“”></a>Google</th>
+      <th><!--Term of Use--><a href=“https://workspace.google.com/terms/premier_terms/?sjid=15432536244888463008-AP”>URL</a></th>
+      <th><!--Privacy Policy--><a href=“https://support.google.com/gemini/answer/13594961?hl=en&visit_id=638445236399578564-3759371208&rd=1#collected_data”>URL</a></th>
+      <th><!--学習への利用--><a href=“https://support.google.com/gemini/answer/13594961?hl=en&visit_id=638445236399578564-3759371208&rd=1#collected_data”>される</a></th>
+      <th><!--データ保持--><a href=“https://support.google.com/gemini/answer/13594961?hl=en&visit_id=638445236399578564-3759371208&rd=1#collected_data&zippy=%2Cwho-has-access-to-my-gemini-apps-conversations”></a>0日-36ヶ月</th>
+      <th><!--リージョン--><a href=“https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=18f05f3cc3d7a11045724a3599013176”>世界各国</a></th>
+      <th><!--日本リージョン有無--><a href=“https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=18f05f3cc3d7a11045724a3599013176”>存在するが選択不可</a></th>
+      <th><!--準拠法--><a href=“https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=18f05f3cc3d7a11045724a3599013176”>日本国法</a></th>
+      <th><!--管轄裁判所--><a href=“https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=18f05f3cc3d7a11045724a3599013176”>東京地方裁判所</a></th>
+      <th><!--ISO27001--><a href=“”></a>調査中</th>
+      <th><!--SOC2--><a href=“”></a>調査中</th>
+      <th><!--ISMAP--><a href=“”></a>調査中</th>
       <th><!--NOTE--></th>      
      </tr>
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Name-->Gemini Business</th>
-      <th><!--Plan/ Model--></th>
+      <th><!--Service Name-->Gemini for Google Workspace</th>
+      <th><!--Plan/ Model--><a href=“https://workspace.google.com/intl/ja/solutions/ai/”></a>Gemini Business</th>
       <th><!--Service Type-->SaaS</th>
       <th><!--Terget-->法人</th>
-      <th><!--Service Provider--></th>
-      <th><!--Model Procider--></th>
-      <th><!--Term of Use--></th>
-      <th><!--Privacy Policy--></th>
-      <th><!--学習への利用--></th>
-      <th><!--データ保持--></th>
-      <th><!--リージョン--></th>
-      <th><!--日本リージョン有無--></th>
-      <th><!--準拠法--></th>
-      <th><!--管轄裁判所--></th>
-      <th><!--ISO27001--></th>
-      <th><!--SOC2--></th>
-      <th><!--ISMAP--></th>
+      <th><!--Service Provider--><a href=“”></a>Google</th>
+      <th><!--Model Procider--><a href=“”></a>Google</th>
+      <th><!--Term of Use--><a href=“https://workspace.google.com/terms/premier_terms/?sjid=15432536244888463008-AP”>URL</a></th>
+      <th><!--Privacy Policy--><a href=“https://workspace.google.com/blog/ja/identity-and-security/protecting-your-data-era-generative-ai?hl=ja”>URL</a></th>
+      <th><!--学習への利用--><a href=“https://workspace.google.com/blog/ja/identity-and-security/protecting-your-data-era-generative-ai?hl=ja”></a>しない</th>
+      <th><!--データ保持--><a href=“”></a></th>
+      <th><!--リージョン--><a href=“https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=18f05f3cc3d7a11045724a3599013176”>世界各国</a></th>
+      <th><!--日本リージョン有無--><a href=“https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=18f05f3cc3d7a11045724a3599013176”>存在するが選択不可</a></th>
+      <th><!--準拠法--><a href=“https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=18f05f3cc3d7a11045724a3599013176”>日本国法</a></th>
+      <th><!--管轄裁判所--><a href=“https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=18f05f3cc3d7a11045724a3599013176”>東京地方裁判所</a></th>
+      <th><!--ISO27001--><a href=“”></a>調査中</th>
+      <th><!--SOC2--><a href=“”></a>調査中</th>
+      <th><!--ISMAP--><a href=“”></a>調査中</th>
       <th><!--NOTE--></th>
      </tr>
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Name-->Gemini Enterprise</th>
-      <th><!--Plan/ Model--></th>
+      <th><!--Service Name-->Gemini for Google Workspace</th>
+      <th><!--Plan/ Model--><a href=“https://workspace.google.com/intl/ja/solutions/ai/”></a>Gemini Enterprise</th>
       <th><!--Service Type-->SaaS</th>
       <th><!--Terget-->法人</th>
-      <th><!--Service Provider--></th>
-      <th><!--Model Procider--></th>
-      <th><!--Term of Use--></th>
-      <th><!--Privacy Policy--></th>
-      <th><!--学習への利用--></th>
-      <th><!--データ保持--></th>
-      <th><!--リージョン--></th>
-      <th><!--日本リージョン有無--></th>
-      <th><!--準拠法--></th>
-      <th><!--管轄裁判所--></th>
-      <th><!--ISO27001--></th>
-      <th><!--SOC2--></th>
-      <th><!--ISMAP--></th>
+      <th><!--Service Provider--><a href=“”></a>Google</th>
+      <th><!--Model Procider--><a href=“”></a>Google</th>
+      <th><!--Term of Use--><a href=“https://workspace.google.com/terms/premier_terms/?sjid=15432536244888463008-AP”>URL</a></th>
+      <th><!--Privacy Policy--><a href=“https://workspace.google.com/blog/ja/identity-and-security/protecting-your-data-era-generative-ai?hl=ja”>URL</a></th>
+      <th><!--学習への利用--><a href=“https://workspace.google.com/blog/ja/identity-and-security/protecting-your-data-era-generative-ai?hl=ja”></a>しない</th>
+      <th><!--データ保持--><a href=“”></a></th>
+      <th><!--リージョン--><a href=“https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=18f05f3cc3d7a11045724a3599013176”>世界各国</a></th>
+      <th><!--日本リージョン有無--><a href=“https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=18f05f3cc3d7a11045724a3599013176”>存在するが選択不可</a></th>
+      <th><!--準拠法--><a href=“https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=18f05f3cc3d7a11045724a3599013176”>日本国法</a></th>
+      <th><!--管轄裁判所--><a href=“https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=18f05f3cc3d7a11045724a3599013176”>東京地方裁判所</a></th>
+      <th><!--ISO27001--><a href=“”></a>調査中</th>
+      <th><!--SOC2--><a href=“”></a>調査中</th>
+      <th><!--ISMAP--><a href=“”></a>調査中</th>
       <th><!--NOTE--></th>
      </tr>
    </tbody>
