@@ -392,45 +392,67 @@
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Name-->Vertex AI(Free)</th>
-      <th><!--Plan/ Model--></th>
+      <th><!--Service Name-->Google Cloud Vertex AI</th>
+      <th><!--Plan/ Model-->Gemini Free</th>
       <th><!--Service Type-->SaaS</th>
-      <th><!--Terget-->個人/法人</th>
-      <th><!--Service Provider--></th>
-      <th><!--Model Procider--></th>
-      <th><!--Term of Use--></th>
-      <th><!--Privacy Policy--></th>
-      <th><!--学習への利用--></th>
-      <th><!--データ保持--></th>
-      <th><!--リージョン--></th>
-      <th><!--日本リージョン有無--></th>
-      <th><!--準拠法--></th>
-      <th><!--管轄裁判所--></th>
-      <th><!--ISO27001--></th>
-      <th><!--SOC2--></th>
-      <th><!--ISMAP--></th>
+      <th><!--Terget-->法人</th>
+      <th><!--Service Provider--><a href=“”></a>Google</th>
+      <th><!--Model Procider--><a href=“”></a>Google</th>
+      <th><!--Term of Use--><a href=“https://ai.google.dev/gemini-api/terms”>URL</a></th>
+      <th><!--Privacy Policy--><a href=“https://ai.google.dev/gemini-api/terms”>URL</a></th>
+      <th><!--学習への利用--><a href=“https://ai.google.dev/gemini-api/terms”>する</a></th>
+      <th><!--データ保持--><a href=“”></a></th>
+      <th><!--リージョン--><a href=“”></a></th>
+      <th><!--日本リージョン有無--><a href=“”></a></th>
+      <th><!--準拠法--><a href=“”></a></th>
+      <th><!--管轄裁判所--><a href=“”></a></th>
+      <th><!--ISO27001--><a href=“”></a></th>
+      <th><!--SOC2--><a href=“”></a></th>
+      <th><!--ISMAP--><a href=“”></a></th>
       <th><!--NOTE--></th>
      </tr>
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Name-->Vertex AI (Pay as you go)</th>
-      <th><!--Plan/ Model--></th>
+      <th><!--Service Name-->Google Cloud Vertex AI</th>
+      <th><!--Plan/ Model-->Gemini Pay-as-you-go</th>
       <th><!--Service Type-->SaaS</th>
       <th><!--Terget-->法人</th>
-      <th><!--Service Provider--></th>
-      <th><!--Model Procider--></th>
-      <th><!--Term of Use--></th>
-      <th><!--Privacy Policy--></th>
-      <th><!--学習への利用--></th>
-      <th><!--データ保持--></th>
-      <th><!--リージョン--></th>
-      <th><!--日本リージョン有無--></th>
-      <th><!--準拠法--></th>
-      <th><!--管轄裁判所--></th>
-      <th><!--ISO27001--></th>
-      <th><!--SOC2--></th>
-      <th><!--ISMAP--></th>
+      <th><!--Service Provider--><a href=“”></a>Google</th>
+      <th><!--Model Procider--><a href=“”></a>Google</th>
+      <th><!--Term of Use--><a href=“https://ai.google.dev/gemini-api/terms”>URL</a></th>
+      <th><!--Privacy Policy--><a href=“https://ai.google.dev/gemini-api/terms”>URL</a></th>
+      <th><!--学習への利用--><a href=“https://ai.google.dev/gemini-api/terms”>しない</a></th>
+      <th><!--データ保持--><a href=“”></a>調査中</th>
+      <th><!--リージョン--><a href=“”></a>調査中</th>
+      <th><!--日本リージョン有無--><a href=“”></a>調査中</th>
+      <th><!--準拠法--><a href=“”></a>調査中</th>
+      <th><!--管轄裁判所--><a href=“”></a>調査中</th>
+      <th><!--ISO27001--><a href=“”></a>調査中</th>
+      <th><!--SOC2--><a href=“”></a>調査中</th>
+      <th><!--ISMAP--><a href=“”></a>調査中</th>
+      <th><!--NOTE--></th>
+     </tr>
+   </tbody>
+   <tbody>
+     <tr>
+      <th><!--Service Name-->Google Cloud Vertex AI</th>
+      <th><!--Plan/ Model-->Claude Series</th>
+      <th><!--Service Type-->SaaS</th>
+      <th><!--Terget-->法人</th>
+      <th><!--Service Provider--><a href=“”></a>Google</th>
+      <th><!--Model Procider--><a href=“”></a>Anthropic</th>
+      <th><!--Term of Use--><a href=“”></a>調査中</th>
+      <th><!--Privacy Policy--><a href=“”></a>調査中</th>
+      <th><!--学習への利用--><a href=“”></a>調査中</th>
+      <th><!--データ保持--><a href=“”></a>調査中</th>
+      <th><!--リージョン--><a href=“”></a>調査中</th>
+      <th><!--日本リージョン有無--><a href=“”></a>調査中</th>
+      <th><!--準拠法--><a href=“”></a>調査中</th>
+      <th><!--管轄裁判所--><a href=“”></a>調査中</th>
+      <th><!--ISO27001--><a href=“”></a>調査中</th>
+      <th><!--SOC2--><a href=“”></a>調査中</th>
+      <th><!--ISMAP--><a href=“”></a>調査中</th>
       <th><!--NOTE--></th>
      </tr>
    </tbody>
@@ -440,19 +462,19 @@
       <th><!--Plan/ Model-->Free Plan</th>
       <th><!--Service Type-->SaaS</th>
       <th><!--Terget-->個人</th>
-      <th><!--Service Provider--></th>
-      <th><!--Model Procider--></th>
-      <th><!--Term of Use--></th>
-      <th><!--Privacy Policy--></th>
-      <th><!--学習への利用--></th>
-      <th><!--データ保持--></th>
-      <th><!--リージョン--></th>
-      <th><!--日本リージョン有無--></th>
-      <th><!--準拠法--></th>
-      <th><!--管轄裁判所--></th>
-      <th><!--ISO27001--></th>
-      <th><!--SOC2--></th>
-      <th><!--ISMAP--></th>
+      <th><!--Service Provider--><a href=“”></a>Anthropic</th>
+      <th><!--Model Procider--><a href=“”></a>Anthropic</th>
+      <th><!--Term of Use--><a href=“”></a>調査中</th>
+      <th><!--Privacy Policy--><a href=“”></a>調査中</th>
+      <th><!--学習への利用--><a href=“”></a>調査中</th>
+      <th><!--データ保持--><a href=“”></a>調査中</th>
+      <th><!--リージョン--><a href=“”></a>調査中</th>
+      <th><!--日本リージョン有無--><a href=“”></a>調査中</th>
+      <th><!--準拠法--><a href=“”></a>調査中</th>
+      <th><!--管轄裁判所--><a href=“”></a>調査中</th>
+      <th><!--ISO27001--><a href=“”></a>調査中</th>
+      <th><!--SOC2--><a href=“”></a>調査中</th>
+      <th><!--ISMAP--><a href=“”></a>調査中</th>
       <th><!--NOTE--></th>
      </tr>
    </tbody>
@@ -462,63 +484,63 @@
       <th><!--Plan/ Model-->Pro Plan</th>
       <th><!--Service Type-->SaaS</th>
       <th><!--Terget-->個人</th>
-      <th><!--Service Provider--></th>
-      <th><!--Model Procider--></th>
-      <th><!--Term of Use--></th>
-      <th><!--Privacy Policy--></th>
-      <th><!--学習への利用--></th>
-      <th><!--データ保持--></th>
-      <th><!--リージョン--></th>
-      <th><!--日本リージョン有無--></th>
-      <th><!--準拠法--></th>
-      <th><!--管轄裁判所--></th>
-      <th><!--ISO27001--></th>
-      <th><!--SOC2--></th>
-      <th><!--ISMAP--></th>
+      <th><!--Service Provider--><a href=“”></a>Anthropic</th>
+      <th><!--Model Procider--><a href=“”></a>Anthropic</th>
+      <th><!--Term of Use--><a href=“”></a>調査中</th>
+      <th><!--Privacy Policy--><a href=“”></a>調査中</th>
+      <th><!--学習への利用--><a href=“”></a>調査中</th>
+      <th><!--データ保持--><a href=“”></a>調査中</th>
+      <th><!--リージョン--><a href=“”></a>調査中</th>
+      <th><!--日本リージョン有無--><a href=“”></a>調査中</th>
+      <th><!--準拠法--><a href=“”></a>調査中</th>
+      <th><!--管轄裁判所--><a href=“”></a>調査中</th>
+      <th><!--ISO27001--><a href=“”></a>調査中</th>
+      <th><!--SOC2--><a href=“”></a>調査中</th>
+      <th><!--ISMAP--><a href=“”></a>調査中</th>
       <th><!--NOTE--></th>
      </tr>
    </tbody>
    <tbody>
      <tr>
-      <th><!--Service Name-->Claude Team</th>
-      <th><!--Plan/ Model--></th>
+      <th><!--Service Name-->Claude</th>
+      <th><!--Plan/ Model-->Team Plan</th>
       <th><!--Service Type-->SaaS</th>
       <th><!--Terget-->法人</th>
-      <th><!--Service Provider--></th>
-      <th><!--Model Procider--></th>
-      <th><!--Term of Use--></th>
-      <th><!--Privacy Policy--></th>
-      <th><!--学習への利用--></th>
-      <th><!--データ保持--></th>
-      <th><!--リージョン--></th>
-      <th><!--日本リージョン有無--></th>
-      <th><!--準拠法--></th>
-      <th><!--管轄裁判所--></th>
-      <th><!--ISO27001--></th>
-      <th><!--SOC2--></th>
-      <th><!--ISMAP--></th>
+      <th><!--Service Provider--><a href=“”></a>Anthropic</th>
+      <th><!--Model Procider--><a href=“”></a>Anthropic</th>
+      <th><!--Term of Use--><a href=“”></a>調査中</th>
+      <th><!--Privacy Policy--><a href=“”></a>調査中</th>
+      <th><!--学習への利用--><a href=“”></a>調査中</th>
+      <th><!--データ保持--><a href=“”></a>調査中</th>
+      <th><!--リージョン--><a href=“”></a>調査中</th>
+      <th><!--日本リージョン有無--><a href=“”></a>調査中</th>
+      <th><!--準拠法--><a href=“”></a>調査中</th>
+      <th><!--管轄裁判所--><a href=“”></a>調査中</th>
+      <th><!--ISO27001--><a href=“”></a>調査中</th>
+      <th><!--SOC2--><a href=“”></a>調査中</th>
+      <th><!--ISMAP--><a href=“”></a>調査中</th>
       <th><!--NOTE--></th>
      </tr>
    </tbody>
    <tbody>
      <tr>
       <th><!--Service Name-->Claude API</th>
-      <th><!--Plan/ Model--></th>
+      <th><!--Plan/ Model-->Haiku,Sonnet,Opus</th>
       <th><!--Service Type-->API</th>
       <th><!--Terget-->個人/法人</th>
-      <th><!--Service Provider--></th>
-      <th><!--Model Procider--></th>
-      <th><!--Term of Use--></th>
-      <th><!--Privacy Policy--></th>
-      <th><!--学習への利用--></th>
-      <th><!--データ保持--></th>
-      <th><!--リージョン--></th>
-      <th><!--日本リージョン有無--></th>
-      <th><!--準拠法--></th>
-      <th><!--管轄裁判所--></th>
-      <th><!--ISO27001--></th>
-      <th><!--SOC2--></th>
-      <th><!--ISMAP--></th>
+      <th><!--Service Provider--><a href=“”></a>Anthropic</th>
+      <th><!--Model Procider--><a href=“”></a>Anthropic</th>
+      <th><!--Term of Use--><a href=“”></a>調査中</th>
+      <th><!--Privacy Policy--><a href=“”></a>調査中</th>
+      <th><!--学習への利用--><a href=“”>しない</a></th>
+      <th><!--データ保持--><a href=“”></a>調査中</th>
+      <th><!--リージョン--><a href=“”></a>調査中</th>
+      <th><!--日本リージョン有無--><a href=“”></a>調査中</th>
+      <th><!--準拠法--><a href=“”></a>調査中</th>
+      <th><!--管轄裁判所--><a href=“”></a>調査中</th>
+      <th><!--ISO27001--><a href=“”></a>調査中</th>
+      <th><!--SOC2--><a href=“”></a>調査中</th>
+      <th><!--ISMAP--><a href=“”></a>調査中</th>
       <th><!--NOTE--></th>
      </tr>
    </tbody>
@@ -528,18 +550,18 @@
       <th><!--Plan/ Model-->Claude Series</th>
       <th><!--Service Type-->API</th>
       <th><!--Terget-->法人</th>
-      <th><!--Service Provider--></th>
-      <th><!--Model Procider--></th>
-      <th><!--Term of Use--></th>
-      <th><!--Privacy Policy--></th>
-      <th><!--学習への利用--></th>
-      <th><!--データ保持--></th>
-      <th><!--リージョン--></th>
-      <th><!--日本リージョン有無--></th>
-      <th><!--準拠法--></th>
-      <th><!--管轄裁判所--></th>
-      <th><!--ISO27001--></th>
-      <th><!--SOC2--></th>
+      <th><!--Service Provider--><a href=“”></a>AWS</th>
+      <th><!--Model Procider--><a href=“”></a>Anthoropic</th>
+      <th><!--Term of Use--><a href=“”></a>調査中</th>
+      <th><!--Privacy Policy--><a href=“”></a>調査中</th>
+      <th><!--学習への利用--><a href=“https://aws.amazon.com/jp/bedrock/faqs/”>しない</a></th>
+      <th><!--データ保持--><a href=“”></a>調査中</th>
+      <th><!--リージョン--><a href=“”></a>調査中</th>
+      <th><!--日本リージョン有無--><a href=“”></a>調査中</th>
+      <th><!--準拠法--><a href=“”></a>調査中</th>
+      <th><!--管轄裁判所--><a href=“”></a>調査中</th>
+      <th><!--ISO27001--><a href=“https://aws.amazon.com/jp/bedrock/faqs/”>YES</a></th>
+      <th><!--SOC2--><a href=“https://aws.amazon.com/jp/bedrock/faqs/”>YES</a></th>
       <th><!--ISMAP--><a href="https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=c8e0b6cc9361c610a734bb497bba104f">Yes</a></th>
       <th><!--NOTE--></th>
      </tr>
@@ -550,19 +572,19 @@
       <th><!--Plan/ Model-->Taitan Series</th>
       <th><!--Service Type-->API</th>
       <th><!--Terget-->法人</th>
-      <th><!--Service Provider--></th>
-      <th><!--Model Procider--></th>
-      <th><!--Term of Use--></th>
-      <th><!--Privacy Policy--></th>
-      <th><!--学習への利用--></th>
-      <th><!--データ保持--></th>
-      <th><!--リージョン--></th>
-      <th><!--日本リージョン有無--></th>
-      <th><!--準拠法--></th>
-      <th><!--管轄裁判所--></th>
-      <th><!--ISO27001--></th>
-      <th><!--SOC2--></th>
-      <th><!--ISMAP--></th>
+      <th><!--Service Provider--><a href=“”></a>AWS</th>
+      <th><!--Model Procider--><a href=“”></a>AWS</th>
+      <th><!--Term of Use--><a href=“”></a>調査中</th>
+      <th><!--Privacy Policy--><a href=“”></a>調査中</th>
+      <th><!--学習への利用--><a href=“https://aws.amazon.com/jp/bedrock/faqs/”>しない</a></th>
+      <th><!--データ保持--><a href=“”></a>調査中</th>
+      <th><!--リージョン--><a href=“”></a>調査中</th>
+      <th><!--日本リージョン有無--><a href=“”></a>調査中</th>
+      <th><!--準拠法--><a href=“”></a>調査中</th>
+      <th><!--管轄裁判所--><a href=“”></a>調査中</th>
+      <th><!--ISO27001--><a href=“https://aws.amazon.com/jp/bedrock/faqs/”>YES</a></th>
+      <th><!--SOC2--><a href=“https://aws.amazon.com/jp/bedrock/faqs/”>YES</a></th>
+      <th><!--ISMAP--><a href="https://www.ismap.go.jp/csm?id=cloud_service_list_detail&sys_id=c8e0b6cc9361c610a734bb497bba104f">Yes</a></th>
       <th><!--NOTE--></th>
      </tr>
    </tbody>
