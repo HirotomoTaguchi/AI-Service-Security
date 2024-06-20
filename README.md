@@ -50,7 +50,7 @@
       <th><!--Term of Use--><a href="https://openai.com/ja-JP/policies/terms-of-use/">URL</a></th>
       <th><!--Privacy Policy--><a href="https://openai.com/ja-JP/policies/privacy-policy/">URL</a></th>
       <th><!--学習への利用--><a href="https://openai.com/ja-JP/policies/terms-of-use/">する</a></th>
-      <th><!--データ保持--><a href="https://openai.com/ja-JP/policies/terms-of-use/">30日</a></th>
+      <th><!--データ保持-->チャット履歴に保持</th>
       <th><!--リージョン--><a href="https://openai.com/ja-JP/policies/terms-of-use/">US</a></th>
       <th><!--日本リージョン有無--><a href="https://openai.com/ja-JP/policies/terms-of-use/">なし</a></th>
       <th><!--準拠法--><a href="https://openai.com/ja-JP/policies/terms-of-use/">カリフォルニア州法</a></th>
@@ -72,7 +72,7 @@
       <th><!--Term of Use--><a href="https://openai.com/ja-JP/policies/terms-of-use/">URL</a></th>
       <th><!--Privacy Policy--><a href="https://openai.com/ja-JP/policies/privacy-policy/">URL</a></th>
       <th><!--学習への利用--><a href="https://openai.com/ja-JP/policies/terms-of-use/">する</a></th>
-      <th><!--データ保持--><a href="https://openai.com/ja-JP/policies/terms-of-use/">30日</a></th>
+      <th><!--データ保持-->チャット履歴に保持</a></th>
       <th><!--リージョン--><a href="https://openai.com/ja-JP/policies/terms-of-use/">US</a></th>
       <th><!--日本リージョン有無--><a href="https://openai.com/ja-JP/policies/terms-of-use/">なし</a></th>
       <th><!--準拠法-->同上</th>
@@ -94,7 +94,7 @@
       <th><!--Term of Use--><a href="https://openai.com/policies/business-terms/">URL</a></th>
       <th><!--Privacy Policy--><a href="https://openai.com/ja-JP/policies/privacy-policy/">URL</a></th>
       <th><!--学習への利用--><a href="https://openai.com/policies/business-terms/">しない</a></th>
-      <th><!--データ保持--><a href="https://openai.com/policies/business-terms/">30日</a></th>
+      <th><!--データ保持-->チャット履歴に保持</th>
       <th><!--リージョン--><a href="https://openai.com/policies/business-terms/">US</a></th>
       <th><!--日本リージョン有無--><a href="https://openai.com/ja-JP/policies/terms-of-use/">なし</a></th>
       <th><!--準拠法-->同上</th>
@@ -116,7 +116,7 @@
       <th><!--Term of Use--><a href="https://openai.com/policies/business-terms/">URL</a></th>
       <th><!--Privacy Policy--><a href="https://openai.com/ja-JP/policies/privacy-policy/">URL</a></th>
       <th><!--学習への利用--><a href="https://openai.com/policies/business-terms/">しない</a></th>
-      <th><!--データ保持--><a href="https://openai.com/policies/business-terms/">30日</a></th>
+      <th><!--データ保持-->チャット履歴に保持</th>
       <th><!--リージョン--><a href="https://openai.com/policies/business-terms/">US</a></th>
       <th><!--日本リージョン有無--><a href="https://openai.com/ja-JP/policies/terms-of-use/">なし</a></th>
       <th><!--準拠法-->同上</th>
@@ -661,6 +661,50 @@
       <th><!--Plan/ Model-->モデル非公開</th>
       <th><!--Service Type-->SaaS</th>
       <th><!--Terget-->法人</th>
+      <th><!--Service Provider-->調査中</th>
+      <th><!--Model Procider-->調査中</th>
+      <th><!--Term of Use-->調査中</th>
+      <th><!--Privacy Policy-->調査中</th>
+      <th><!--学習への利用-->調査中</th>
+      <th><!--データ保持-->調査中</th>
+      <th><!--リージョン-->調査中</th>
+      <th><!--日本リージョン有無-->調査中</th>
+      <th><!--準拠法-->調査中</th>
+      <th><!--管轄裁判所-->調査中</th>
+      <th><!--ISO27001-->調査中</th>
+      <th><!--SOC2-->調査中</th>
+      <th><!--ISMAP-->調査中</th>
+      <th><!--NOTE--></th>  
+     </tr>
+   </tbody>
+   <tbody>
+     <tr>
+      <th><!--Service Name--><a href="https://www.perplexity.ai/">perplexity</a></th>
+      <th><!--Plan/ Model-->Free</th>
+      <th><!--Service Type-->SaaS</th>
+      <th><!--Terget-->個人</th>
+      <th><!--Service Provider-->調査中</th>
+      <th><!--Model Procider-->調査中</th>
+      <th><!--Term of Use-->調査中</th>
+      <th><!--Privacy Policy-->調査中</th>
+      <th><!--学習への利用-->調査中</th>
+      <th><!--データ保持-->調査中</th>
+      <th><!--リージョン-->調査中</th>
+      <th><!--日本リージョン有無-->調査中</th>
+      <th><!--準拠法-->調査中</th>
+      <th><!--管轄裁判所-->調査中</th>
+      <th><!--ISO27001-->調査中</th>
+      <th><!--SOC2-->調査中</th>
+      <th><!--ISMAP-->調査中</th>
+      <th><!--NOTE--></th>  
+     </tr>
+   </tbody>
+   <tbody>
+     <tr>
+      <th><!--Service Name--><a href="https://www.perplexity.ai/">perplexity</a></th>
+      <th><!--Plan/ Model-->Pro</th>
+      <th><!--Service Type-->SaaS</th>
+      <th><!--Terget-->個人</th>
       <th><!--Service Provider-->調査中</th>
       <th><!--Model Procider-->調査中</th>
       <th><!--Term of Use-->調査中</th>
