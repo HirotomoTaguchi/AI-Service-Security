@@ -704,7 +704,7 @@
       <th><!--Service Name--><a href="https://www.perplexity.ai/">perplexity</a></th>
       <th><!--Plan/ Model-->Pro</th>
       <th><!--Service Type-->SaaS</th>
-      <th><!--Terget-->個人</th>
+      <th><!--Terget-->個人/法人</th>
       <th><!--Service Provider-->調査中</th>
       <th><!--Model Procider-->調査中</th>
       <th><!--Term of Use-->調査中</th>
