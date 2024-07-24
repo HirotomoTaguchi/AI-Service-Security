@@ -648,19 +648,19 @@
       <th><!--Plan/ Model-->Gemini Free</th>
       <th><!--Service Type-->API</th>
       <th><!--Terget-->法人</th>
-      <th><!--Service Provider--><a href=“”></a>Google</th>
-      <th><!--Model Procider--><a href=“”></a>Google</th>
-      <th><!--Term of Use--><a href=“https://ai.google.dev/gemini-api/terms”>URL</a></th>
-      <th><!--Privacy Policy--><a href=“https://ai.google.dev/gemini-api/terms”>URL</a></th>
-      <th><!--学習への利用--><a href=“https://ai.google.dev/gemini-api/terms”>する</a></th>
-      <th><!--データ保持--><!--Privacy Policy--><a href=“”></a>調査中</th>
-      <th><!--リージョン--><a href=“”></a>調査中</th>
-      <th><!--日本リージョン有無--><a href=“”></a>調査中</th>
-      <th><!--準拠法--><a href=“”></a>調査中</th>
-      <th><!--管轄裁判所--><a href=“”></a>調査中</th>
-      <th><!--ISO27001--><a href=“”></a>調査中</th>
-      <th><!--SOC2--><a href=“”></a>調査中</th>
-      <th><!--ISMAP--><a href=“”></a>調査中</th>
+      <th><!--Service Provider--><a href=""></a>Google</th>
+      <th><!--Model Procider--><a href=""></a>Google</th>
+      <th><!--Term of Use--><a href="https://ai.google.dev/gemini-api/terms">URL</a></th>
+      <th><!--Privacy Policy--><a href="https://ai.google.dev/gemini-api/terms">URL</a></th>
+      <th><!--学習への利用--><a href="https://ai.google.dev/gemini-api/terms">する</a></th>
+      <th><!--データ保持--><!--Privacy Policy--><a href=""></a>調査中</th>
+      <th><!--リージョン--><a href=""></a>調査中</th>
+      <th><!--日本リージョン有無--><a href=""></a>調査中</th>
+      <th><!--準拠法--><a href=""></a>調査中</th>
+      <th><!--管轄裁判所--><a href=""></a>調査中</th>
+      <th><!--ISO27001--><a href=""></a>調査中</th>
+      <th><!--SOC2--><a href=""></a>調査中</th>
+      <th><!--ISMAP--><a href=""></a>調査中</th>
       <th><!--NOTE--></th>
      </tr>
    </tbody>
