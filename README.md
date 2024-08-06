@@ -797,5 +797,28 @@
      </tr>
    </tbody>
  </table>
+ <tbody>
+     <tr>
+      <th><!--Service Name--><a href="https://www.perplexity.ai/ja/hub/blog/introducing-pplx-api">Perplexity API</a></th>
+      <th><!--Plan/ Model--><a href="https://docs.perplexity.ai/docs/model-cards">Perplexity Models & Open-Source Models(llama, mixtral)</a></th>
+      <th><!--Service Type-->API</th>
+      <th><!--Terget-->法人</th>
+      <th><!--Service Provider--><a href="https://www.perplexity.ai/ja/hub/about">Perplexity</a></th>
+      <th><!--Model Procider-->Perplexity</th>
+      <th><!--Term of Use--><a href="https://www.perplexity.ai/ja/hub/legal/perplexity-api-terms-of-service">URL</a></th>
+      <th><!--Privacy Policy--><a href="https://www.perplexity.ai/ja/hub/legal/perplexity-ai-api-privacy">URL</a></th>
+      <th><!--学習への利用--><a href="https://www.perplexity.ai/ja/hub/legal/perplexity-ai-api-privacy">されない</a></th>
+      <th><!--データ保持--><a href="https://www.perplexity.ai/ja/hub/legal/perplexity-ai-api-privacy">30日</a></th>
+      <th><!--リージョン-->調査中</th>
+      <th><!--日本リージョン有無-->調査中</th>
+      <th><!--準拠法-->調査中</th>
+      <th><!--管轄裁判所-->調査中</th>
+      <th><!--ISO27001-->調査中</th>
+      <th><!--SOC2-->調査中</th>
+      <th><!--ISMAP-->未登録</th>
+      <th><!--NOTE--></th>
+     </tr>
+   </tbody>
+ </table>
 </div>
 *1. <a href="https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/abuse-monitoring#:~:text=Azure%20OpenAI%20Limited%20Access%20Review%3A%20Modified%20Abuse%20Monitoring">オプトアウト申請</a>が承認されれば、データは保持されない。
