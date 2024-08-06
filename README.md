@@ -796,8 +796,7 @@
       <th><!--NOTE--></th>
      </tr>
    </tbody>
- </table>
- <tbody>
+   <tbody>
      <tr>
       <th><!--Service Name--><a href="https://www.perplexity.ai/ja/hub/blog/introducing-pplx-api">Perplexity API</a></th>
       <th><!--Plan/ Model--><a href="https://docs.perplexity.ai/docs/model-cards">Perplexity Models & Open-Source Models(llama, mixtral)</a></th>
